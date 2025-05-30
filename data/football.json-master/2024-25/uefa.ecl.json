@@ -1,0 +1,29 @@
+{
+  "name": "UEFA Europa Conference League 2024/25",
+  "matches": [
+    {
+      "round": "Quarter-final",
+      "date": "2025-04-11",
+      "team1": "Legia Warszawa",
+      "team2": "Chelsea FC"
+    },
+    {
+      "round": "Quarter-final",
+      "date": "2025-04-11", 
+      "team1": "Djurgarden FC",
+      "team2": "Rapid Wien"
+    },
+    {
+      "round": "Quarter-final",
+      "date": "2025-04-11",
+      "team1": "NK Celje",
+      "team2": "ACF Fiorentina"
+    },
+    {
+      "round": "Quarter-final",
+      "date": "2025-04-11",
+      "team1": "Real Betis Balompié",
+      "team2": "Jagiellonia Białystok"
+    }
+  ]
+}

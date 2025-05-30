@@ -1,0 +1,29 @@
+{
+  "name": "UEFA Europa League 2024/25",
+  "matches": [
+    {
+      "round": "Quarter-final",
+      "date": "2025-04-10",
+      "team1": "Olympique Lyonnais",
+      "team2": "Manchester United FC"
+    },
+    {
+      "round": "Quarter-final",
+      "date": "2025-04-10", 
+      "team1": "Tottenham Hotspur FC",
+      "team2": "Eintracht Frankfurt"
+    },
+    {
+      "round": "Quarter-final",
+      "date": "2025-04-10",
+      "team1": "Rangers FC",
+      "team2": "Athletic Club"
+    },
+    {
+      "round": "Quarter-final",
+      "date": "2025-04-10",
+      "team1": "Bodø/Glimt",
+      "team2": "SS Lazio"
+    }
+  ]
+}

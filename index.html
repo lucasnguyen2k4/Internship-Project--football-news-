@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Football News Search</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 p-4">
+  <div class="max-w-4xl mx-auto">
+    <h1 class="text-3xl font-bold text-center mb-6">⚽ Football News Search</h1>
+    <div class="flex flex-col md:flex-row gap-2 mb-4">
+      <input type="text" id="searchInput" placeholder="Search club, keywords, ..." class="flex-grow p-2 border rounded" />
+      <button onclick="startSearch()" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Search</button>
+    </div>
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mb-4">
+      <select class="p-2 rounded border" id="leagueFilter">
+        <option value="">All Leagues</option>
+      </select>
+      <select class="p-2 rounded border" id="clubFilter">
+        <option value="">All Clubs</option>
+      </select>
+      <select class="p-2 rounded border" id="sourceFilter">
+        <option value="">All Sources</option>
+      </select>
+      <select class="p-2 rounded border" id="dateFilter">
+        <option value="desc" selected>Newest</option>
+        <option value="asc">Oldest</option>
+      </select>
+    </div>
+    <div id="results" class="grid gap-4"></div>
+    <div class="flex justify-center mt-6">
+      <button id="loadMoreBtn" onclick="loadMore()" class="hidden bg-gray-800 text-white px-4 py-2 rounded hover:bg-gray-700">
+        Load More
+      </button>
+    </div>
+  </div>
+
+  <script>
+    let from = 0;
+    const size = 20;
+    let lastQuery = {};
+
+    function formatTags(tags, color) {
+      return tags.map(tag => `
+        <span class="inline-block bg-${color}-100 text-${color}-800 text-xs font-semibold px-2 py-1 rounded mr-1 mb-1">
+          ${tag}
+        </span>
+      `).join("");
+    }
+
+    function toggleDetails(el) {
+      const detailDiv = el.nextElementSibling;
+      detailDiv.classList.toggle("hidden");
+    }
+
+    function renderResults(data) {
+      const container = document.getElementById("results");
+
+      for (const news of data) {
+        const dateObj = new Date(news.date);
+        const formattedDate = dateObj.toLocaleString();
+
+        container.innerHTML += `
+          <div class="p-4 bg-white shadow rounded">
+            <h2 class="text-xl font-semibold">
+              <span onclick="toggleDetails(this)" class="cursor-pointer text-blue-600 hover:underline block">${news.title}</span>
+              <div class="hidden mt-2 text-sm text-gray-700">${news.summary}</div>
+              <a href="${news.url}" target="_blank" class="text-sm text-blue-500 hover:underline mt-2 inline-block">Original article</a>
+            </h2>
+            <div class="mt-2 flex flex-wrap gap-1">
+              ${news.leagues ? formatTags(news.leagues, 'green') : ""}
+              ${news.clubs ? formatTags(news.clubs, 'blue') : ""}
+            </div>
+            <div class="text-sm text-gray-500 mt-2">${news.source} • ${formattedDate}</div>
+          </div>
+        `;
+      }
+    }
+
+    async function populateFilters() {
+      const leagueRes = await fetch('/api/leagues');
+      const leagues = await leagueRes.json();
+      const leagueSelect = document.getElementById('leagueFilter');
+      leagueSelect.innerHTML = '<option value="">All Leagues</option>';
+      leagues.forEach(league => {
+        const option = document.createElement('option');
+        option.value = league;
+        option.textContent = league;
+        leagueSelect.appendChild(option);
+    });
+      const sourceRes = await fetch('/api/sources');
+      const sources = await sourceRes.json();
+      const sourceSelect = document.getElementById('sourceFilter');
+      sourceSelect.innerHTML = '<option value="">All Sources</option>';
+      sources.forEach(source => {
+      const option = document.createElement('option');
+      option.value = source;
+      option.textContent = source;
+      sourceSelect.appendChild(option);
+    });
+      updateClubOptionsBasedOnLeague();
+    }
+
+    async function updateClubOptionsBasedOnLeague() {
+      const selectedLeague = document.getElementById("leagueFilter").value;
+      const clubSelect = document.getElementById("clubFilter");
+
+      clubSelect.innerHTML = '<option value="">All Clubs</option>';
+
+      if (!selectedLeague) return;
+
+      try {
+        const res = await fetch(`/api/clubs?leagues=${encodeURIComponent(selectedLeague)}`);
+        const clubs = await res.json();
+        clubs.forEach(club => {
+          const option = document.createElement('option');
+          option.value = club;
+          option.textContent = club;
+          clubSelect.appendChild(option);
+        });
+      } catch (err) {
+        console.error("Failed to load clubs:", err);
+      }
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+      document.getElementById('leagueFilter').addEventListener('change', updateClubOptionsBasedOnLeague);
+      populateFilters();
+      startSearch();
+    });
+    window.addEventListener('DOMContentLoaded', () => {
+      populateFilters().then(() => {
+        updateClubOptionsBasedOnLeague();
+        startSearch();
+      });
+    });
+
+    async function searchNews(reset = false) {
+      if (reset) {
+        document.getElementById("results").innerHTML = "";
+        from = 0;
+      }
+
+      const query = document.getElementById('searchInput').value;
+      const league = document.getElementById('leagueFilter').value;
+      const club = document.getElementById('clubFilter').value;
+      const source = document.getElementById('sourceFilter').value;
+      const date = document.getElementById('dateFilter').value;
+
+      lastQuery = { query, league, club, source, date };
+
+      try {
+        const res = await fetch("/search", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ ...lastQuery, from })
+        });
+
+        const data = await res.json();
+        renderResults(data);
+        if (data.length === size) {
+          document.getElementById("loadMoreBtn").classList.remove("hidden");
+          from += size;
+        } else {
+          document.getElementById("loadMoreBtn").classList.add("hidden");
+        }
+
+        if (reset && data.length === 0) {
+          document.getElementById("results").innerHTML = `<p class="text-center text-gray-600">No news found.</p>`;
+        }
+      } catch (err) {
+        console.error("Error fetching results:", err);
+        document.getElementById("results").innerHTML = `<p class="text-red-600 text-center">Failed to load news.</p>`;
+      }
+    }
+
+    function startSearch() {
+      searchNews(true);
+    }
+
+    function loadMore() {
+      searchNews(false);
+    }
+  </script>
+</body>
+</html>
