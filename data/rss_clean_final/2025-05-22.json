@@ -42,17 +42,17 @@
     "date": "2025-05-22T04:40:29+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "FC Barcelona",
-      "Arsenal FC",
       "Real Madrid CF",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Arsenal FC",
+      "FC Barcelona",
+      "Chelsea FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Fans at Tottenham's stadium celebrate Europa League triumph",
@@ -249,9 +249,9 @@
     "date": "2025-05-22T11:00:51+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
+      "Liverpool FC",
       "Arsenal FC",
-      "Liverpool FC"
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -500,13 +500,13 @@
     "date": "2025-05-22T18:35:42+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
       "Liverpool FC",
+      "Manchester United FC",
       "FC Barcelona"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "English Premier League 2024/25"
   },
@@ -517,8 +517,8 @@
     "date": "2025-05-22T19:09:05+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
-      "Tottenham Hotspur FC"
+      "Tottenham Hotspur FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"

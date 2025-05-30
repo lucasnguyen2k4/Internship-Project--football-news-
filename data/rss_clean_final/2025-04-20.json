@@ -48,9 +48,9 @@
     "date": "2025-04-20T02:00:47+07:00",
     "source": "Guardian",
     "clubs": [
+      "Manchester City FC",
       "Manchester United FC",
-      "Tottenham Hotspur FC",
-      "Manchester City FC"
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -92,8 +92,8 @@
     "date": "2025-04-20T02:56:04+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "AFC Bournemouth"
+      "AFC Bournemouth",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -192,8 +192,8 @@
     "date": "2025-04-20T17:58:20+07:00",
     "source": "BBC",
     "clubs": [
-      "West Ham United FC",
-      "Southampton FC"
+      "Southampton FC",
+      "West Ham United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -250,8 +250,8 @@
     "date": "2025-04-20T22:08:11+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "Fulham FC"
+      "Fulham FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -295,8 +295,8 @@
     "date": "2025-04-20T22:32:17+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Fulham FC"
+      "Fulham FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -340,8 +340,8 @@
     "date": "2025-04-20T22:48:31+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Fulham FC"
+      "Fulham FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -370,9 +370,9 @@
     "date": "2025-04-20T22:58:00+07:00",
     "source": "SkySports",
     "clubs": [
+      "Liverpool FC",
       "Arsenal FC",
-      "Ipswich Town FC",
-      "Liverpool FC"
+      "Ipswich Town FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -386,8 +386,8 @@
     "date": "2025-04-20T23:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Chelsea FC",
-      "Fulham FC"
+      "Fulham FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -460,8 +460,8 @@
     "source": "BBC",
     "clubs": [
       "Aberdeen FC",
-      "Celtic FC",
-      "Dundee United"
+      "Dundee United",
+      "Celtic FC"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"

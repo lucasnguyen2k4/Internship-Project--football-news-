@@ -21,8 +21,8 @@
     "date": "2025-04-27T00:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "West Ham United FC",
-      "Brighton & Hove Albion FC"
+      "Brighton & Hove Albion FC",
+      "West Ham United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -45,8 +45,8 @@
     "date": "2025-04-27T00:44:47+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -71,8 +71,8 @@
     "date": "2025-04-27T01:26:13+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -86,8 +86,8 @@
     "date": "2025-04-27T01:38:08+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -165,8 +165,8 @@
     "date": "2025-04-27T02:33:03+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -182,9 +182,9 @@
     "clubs": [
       "Manchester United FC",
       "Crystal Palace FC",
+      "Manchester City FC",
       "Aston Villa FC",
-      "Nottingham Forest FC",
-      "Manchester City FC"
+      "Nottingham Forest FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -198,8 +198,8 @@
     "date": "2025-04-27T03:28:16+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -241,8 +241,8 @@
     "date": "2025-04-27T05:19:14+07:00",
     "source": "BBC",
     "clubs": [
-      "West Ham United FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "West Ham United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -270,8 +270,8 @@
     "date": "2025-04-27T06:02:49+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Everton FC"
+      "Everton FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -285,8 +285,8 @@
     "date": "2025-04-27T06:18:52+07:00",
     "source": "BBC",
     "clubs": [
-      "West Ham United FC",
-      "Brighton & Hove Albion FC"
+      "Brighton & Hove Albion FC",
+      "West Ham United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -330,8 +330,8 @@
     "clubs": [
       "Newcastle United FC",
       "Nottingham Forest FC",
-      "Brighton & Hove Albion FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Brighton & Hove Albion FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -462,15 +462,15 @@
     "date": "2025-04-27T22:26:27+07:00",
     "source": "Guardian",
     "clubs": [
-      "AFC Bournemouth",
       "Real Madrid CF",
-      "Manchester United FC"
+      "Manchester United FC",
+      "AFC Bournemouth"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Liverpool v Tottenham: Premier League – live",
@@ -479,11 +479,11 @@
     "date": "2025-04-27T22:30:44+07:00",
     "source": "Guardian",
     "clubs": [
-      "Arsenal FC",
-      "Tottenham Hotspur FC",
       "Liverpool FC",
-      "Nottingham Forest FC",
-      "Manchester City FC"
+      "Tottenham Hotspur FC",
+      "Arsenal FC",
+      "Manchester City FC",
+      "Nottingham Forest FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -527,8 +527,8 @@
     "date": "2025-04-27T23:54:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

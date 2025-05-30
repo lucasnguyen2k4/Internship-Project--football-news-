@@ -98,15 +98,15 @@
     "date": "2025-05-15T04:31:12+07:00",
     "source": "BBC",
     "clubs": [
-      "Bayer 04 Leverkusen",
       "Manchester City FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Bayer 04 Leverkusen"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "St Johnstone relegated after 16 seasons in Scottish Premiership",
@@ -252,8 +252,8 @@
     "date": "2025-05-15T12:16:46+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -296,8 +296,8 @@
     "date": "2025-05-15T14:00:18+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -400,14 +400,14 @@
     "date": "2025-05-15T16:12:23+07:00",
     "source": "BBC",
     "clubs": [
-      "AFC Bournemouth",
-      "Real Madrid CF"
+      "Real Madrid CF",
+      "AFC Bournemouth"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Liverpool talks over Frimpong deal progressing well",
@@ -416,14 +416,14 @@
     "date": "2025-05-15T16:23:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Bayer 04 Leverkusen",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Bayer 04 Leverkusen"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Incredible moment PSV fans find out they go top after Ajax concede in 99th min!",
@@ -497,8 +497,8 @@
     "date": "2025-05-15T19:00:10+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -561,14 +561,14 @@
     "date": "2025-05-15T22:00:21+07:00",
     "source": "BBC",
     "clubs": [
-      "Bayer 04 Leverkusen",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Bayer 04 Leverkusen"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Rewind: Brilliant Yaya Toure free-kick seals Man City win in FA Cup",
@@ -577,8 +577,8 @@
     "date": "2025-05-15T22:08:38+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

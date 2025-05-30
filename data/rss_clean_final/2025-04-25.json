@@ -47,8 +47,8 @@
     "date": "2025-04-25T03:55:12+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Manchester United FC"
+      "Manchester United FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -71,8 +71,8 @@
     "date": "2025-04-25T04:30:15+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -95,13 +95,13 @@
     "date": "2025-04-25T06:01:19+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "West Ham United FC",
-      "Fulham FC",
-      "Newcastle United FC",
       "Southampton FC",
-      "Everton FC",
+      "Newcastle United FC",
+      "Fulham FC",
+      "West Ham United FC",
       "Brighton & Hove Albion FC",
+      "Chelsea FC",
+      "Everton FC",
       "Ipswich Town FC"
     ],
     "leagues": [
@@ -125,9 +125,9 @@
     "date": "2025-04-25T12:27:44+07:00",
     "source": "BBC",
     "clubs": [
+      "Manchester City FC",
       "Nottingham Forest FC",
-      "Aston Villa FC",
-      "Manchester City FC"
+      "Aston Villa FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -140,8 +140,8 @@
     "date": "2025-04-25T13:53:54+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -237,8 +237,8 @@
     "date": "2025-04-25T17:10:23+07:00",
     "source": "BBC",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -459,8 +459,8 @@
     "date": "2025-04-25T22:00:38+07:00",
     "source": "Guardian",
     "clubs": [
-      "Celtic FC",
-      "Tottenham Hotspur FC"
+      "Tottenham Hotspur FC",
+      "Celtic FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -510,10 +510,10 @@
     "date": "2025-04-25T22:39:43+07:00",
     "source": "Guardian",
     "clubs": [
-      "Nottingham Forest FC",
-      "Tottenham Hotspur FC",
       "Manchester City FC",
-      "Liverpool FC"
+      "Nottingham Forest FC",
+      "Liverpool FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

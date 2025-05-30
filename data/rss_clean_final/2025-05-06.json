@@ -10,8 +10,8 @@
       "Liverpool FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },
@@ -36,8 +36,8 @@
     "date": "2025-05-06T01:00:41+07:00",
     "source": "Guardian",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -51,8 +51,8 @@
     "date": "2025-05-06T01:45:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Crystal Palace FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -66,8 +66,8 @@
     "date": "2025-05-06T03:15:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Chelsea FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -95,8 +95,8 @@
     "date": "2025-05-06T04:10:31+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -149,8 +149,8 @@
     "date": "2025-05-06T05:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Crystal Palace FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -163,8 +163,8 @@
     "date": "2025-05-06T05:05:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Crystal Palace FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -178,8 +178,8 @@
     "date": "2025-05-06T05:16:51+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -193,8 +193,8 @@
     "date": "2025-05-06T05:16:54+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -327,8 +327,8 @@
     "date": "2025-05-06T15:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -377,8 +377,8 @@
     "date": "2025-05-06T16:59:24+07:00",
     "source": "Guardian",
     "clubs": [
-      "Arsenal FC",
-      "Tottenham Hotspur FC"
+      "Tottenham Hotspur FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -454,14 +454,14 @@
     "date": "2025-05-06T18:32:30+07:00",
     "source": "BBC",
     "clubs": [
-      "Heart of Midlothian",
-      "Brighton & Hove Albion FC"
+      "Brighton & Hove Albion FC",
+      "Heart of Midlothian"
     ],
     "leagues": [
-      "Scottish Premiership 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Scottish Premiership 2024/25"
     ],
-    "main_league": "Scottish Premiership 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Watford sack head coach Cleverley",
@@ -538,8 +538,8 @@
     "date": "2025-05-06T19:57:10+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -570,8 +570,8 @@
       "Liverpool FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },

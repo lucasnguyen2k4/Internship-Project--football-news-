@@ -53,8 +53,8 @@
     "source": "BBC",
     "clubs": [
       "FC Bayern München",
-      "Bayer 04 Leverkusen",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Bayer 04 Leverkusen"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
@@ -87,8 +87,8 @@
     "date": "2025-05-30T12:23:35+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Internazionale Milano",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -130,8 +130,8 @@
     "date": "2025-05-30T15:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "FC Internazionale Milano",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -144,8 +144,8 @@
     "date": "2025-05-30T15:02:47+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -186,9 +186,9 @@
     "date": "2025-05-30T16:44:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Chelsea FC",
       "Everton FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -202,8 +202,8 @@
     "date": "2025-05-30T16:53:30+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -249,8 +249,8 @@
       "Liverpool FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },
@@ -261,8 +261,8 @@
     "date": "2025-05-30T18:26:07+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Ipswich Town FC"
+      "Ipswich Town FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -317,8 +317,8 @@
     "date": "2025-05-30T19:30:19+07:00",
     "source": "BBC",
     "clubs": [
-      "Rangers FC",
-      "Aberdeen FC"
+      "Aberdeen FC",
+      "Rangers FC"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"
@@ -360,14 +360,14 @@
     "date": "2025-05-30T20:23:52+07:00",
     "source": "BBC",
     "clubs": [
-      "Bayer 04 Leverkusen",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Bayer 04 Leverkusen"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "West Ham fined £120,000 for homophobic chants at Chelsea",
@@ -376,8 +376,8 @@
     "date": "2025-05-30T20:34:49+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "West Ham United FC"
+      "West Ham United FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -391,14 +391,14 @@
     "date": "2025-05-30T20:37:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Bayer 04 Leverkusen",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Bayer 04 Leverkusen"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "'Uncharted territory' | Will Liverpool break British transfer record to secure Wirtz?",
@@ -407,14 +407,14 @@
     "date": "2025-05-30T21:15:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Bayer 04 Leverkusen",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Bayer 04 Leverkusen"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Football and other premium TV being pirated at 'industrial scale'",
@@ -446,8 +446,8 @@
     "source": "SkySports",
     "clubs": [
       "FC Bayern München",
-      "Bayer 04 Leverkusen",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Bayer 04 Leverkusen"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
@@ -511,8 +511,8 @@
     "date": "2025-05-30T22:36:35+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Internazionale Milano",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"

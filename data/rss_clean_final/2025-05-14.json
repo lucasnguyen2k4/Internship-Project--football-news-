@@ -47,8 +47,8 @@
     "date": "2025-05-14T02:50:03+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -108,8 +108,8 @@
     "date": "2025-05-14T04:58:57+07:00",
     "source": "Guardian",
     "clubs": [
-      "Sunderland AFC",
-      "Coventry City FC"
+      "Coventry City FC",
+      "Sunderland AFC"
     ],
     "leagues": [
       "English Championship 2024/25"
@@ -123,8 +123,8 @@
     "date": "2025-05-14T05:35:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Sunderland AFC",
-      "Coventry City FC"
+      "Coventry City FC",
+      "Sunderland AFC"
     ],
     "leagues": [
       "English Championship 2024/25"
@@ -161,8 +161,8 @@
     "date": "2025-05-14T06:04:29+07:00",
     "source": "BBC",
     "clubs": [
-      "Sunderland AFC",
-      "Coventry City FC"
+      "Coventry City FC",
+      "Sunderland AFC"
     ],
     "leagues": [
       "English Championship 2024/25"
@@ -176,8 +176,8 @@
     "date": "2025-05-14T06:09:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Sunderland AFC",
-      "Coventry City FC"
+      "Coventry City FC",
+      "Sunderland AFC"
     ],
     "leagues": [
       "English Championship 2024/25"
@@ -191,8 +191,8 @@
     "date": "2025-05-14T06:50:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Sunderland AFC",
-      "Coventry City FC"
+      "Coventry City FC",
+      "Sunderland AFC"
     ],
     "leagues": [
       "English Championship 2024/25"
@@ -231,9 +231,9 @@
     "date": "2025-05-14T14:00:01+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Internazionale Milano",
       "Real Madrid CF",
-      "FC Barcelona"
+      "FC Barcelona",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"

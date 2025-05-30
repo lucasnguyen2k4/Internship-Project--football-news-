@@ -59,8 +59,8 @@
     "date": "2025-05-08T02:45:53+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -95,8 +95,8 @@
     "date": "2025-05-08T03:58:17+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -177,8 +177,8 @@
     "date": "2025-05-08T04:09:05+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -191,9 +191,9 @@
     "date": "2025-05-08T04:11:34+07:00",
     "source": "Guardian",
     "clubs": [
+      "Paris Saint-Germain FC",
       "FC Internazionale Milano",
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -248,8 +248,8 @@
     "date": "2025-05-08T04:54:19+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -288,8 +288,8 @@
     "date": "2025-05-08T06:11:20+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -316,8 +316,8 @@
     "date": "2025-05-08T06:29:33+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -330,8 +330,8 @@
     "date": "2025-05-08T06:30:37+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -430,8 +430,8 @@
     "date": "2025-05-08T18:01:33+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Internazionale Milano",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -546,8 +546,8 @@
     "date": "2025-05-08T20:31:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Brighton & Hove Albion FC",
-      "Wolverhampton Wanderers FC"
+      "Wolverhampton Wanderers FC",
+      "Brighton & Hove Albion FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -561,8 +561,8 @@
     "date": "2025-05-08T21:00:31+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Internazionale Milano",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -607,9 +607,9 @@
     "date": "2025-05-08T22:26:33+07:00",
     "source": "Guardian",
     "clubs": [
-      "Arsenal FC",
       "AFC Bournemouth",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"

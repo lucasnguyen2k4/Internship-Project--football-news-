@@ -20,8 +20,8 @@
     "date": "2025-04-21T01:10:52+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Fulham FC"
+      "Fulham FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -209,8 +209,8 @@
     "date": "2025-04-21T17:03:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Aston Villa FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Aston Villa FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -224,8 +224,8 @@
     "date": "2025-04-21T17:39:33+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Internazionale Milano",
       "Bologna FC 1909",
+      "FC Internazionale Milano",
       "SSC Napoli"
     ],
     "leagues": [
@@ -240,10 +240,10 @@
     "date": "2025-04-21T18:33:43+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "Aston Villa FC",
       "Manchester City FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Aston Villa FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -316,8 +316,8 @@
     "date": "2025-04-21T19:30:36+07:00",
     "source": "Guardian",
     "clubs": [
-      "Aston Villa FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Aston Villa FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -331,8 +331,8 @@
     "date": "2025-04-21T19:31:56+07:00",
     "source": "BBC",
     "clubs": [
-      "Aston Villa FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Aston Villa FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

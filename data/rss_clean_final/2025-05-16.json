@@ -98,17 +98,17 @@
     "date": "2025-05-16T06:01:39+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "AFC Bournemouth",
       "Manchester United FC",
-      "Crystal Palace FC",
-      "West Ham United FC",
-      "Newcastle United FC",
-      "Arsenal FC",
       "Tottenham Hotspur FC",
+      "Arsenal FC",
+      "Crystal Palace FC",
+      "Newcastle United FC",
+      "AFC Bournemouth",
+      "Manchester City FC",
       "Aston Villa FC",
+      "Chelsea FC",
       "Nottingham Forest FC",
-      "Manchester City FC"
+      "West Ham United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -122,8 +122,8 @@
     "date": "2025-05-16T12:06:56+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -137,8 +137,8 @@
     "date": "2025-05-16T12:11:23+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -166,8 +166,8 @@
     "date": "2025-05-16T12:49:18+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -181,8 +181,8 @@
     "date": "2025-05-16T12:56:11+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -196,8 +196,8 @@
     "date": "2025-05-16T13:31:01+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Manchester United FC"
+      "Manchester United FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -244,8 +244,8 @@
     "date": "2025-05-16T15:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Chelsea FC",
-      "Manchester United FC"
+      "Manchester United FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -310,8 +310,8 @@
     "date": "2025-05-16T18:00:56+07:00",
     "source": "Guardian",
     "clubs": [
-      "Rangers FC",
       "Aberdeen FC",
+      "Rangers FC",
       "Celtic FC"
     ],
     "leagues": [

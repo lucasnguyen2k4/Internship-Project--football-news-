@@ -174,7 +174,9 @@ def clean_and_reorganize(folder_path, output_path):
             dt = convert_to_utc7(article.get("date", ""))
             if not dt:
                 continue
-
+            cutoff_date = datetime(2025, 4, 17, tzinfo=tzoffset("UTC+7", 7 * 3600))
+            if dt < cutoff_date:
+                continue
             article["date"] = dt.isoformat() 
             text = article.get("title", "") + " " + article.get("summary", "")
             url = article.get("url", "") 

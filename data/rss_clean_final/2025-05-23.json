@@ -44,14 +44,14 @@
     "date": "2025-05-23T03:56:30+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Valencia CF"
+      "Valencia CF",
+      "Manchester United FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Ross County claim Livingston fan spat in coach's face",
@@ -69,21 +69,21 @@
     "date": "2025-05-23T06:01:15+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
+      "Real Madrid CF",
+      "Southampton FC",
+      "Liverpool FC",
+      "Leicester City FC",
       "AFC Bournemouth",
       "Manchester City FC",
-      "Leicester City FC",
-      "Real Madrid CF",
-      "Liverpool FC",
-      "Southampton FC",
+      "Chelsea FC",
       "Nottingham Forest FC",
       "Ipswich Town FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Slot on the season: Title, Trent,  transfers - and no excuses",
@@ -120,8 +120,8 @@
     "date": "2025-05-23T12:28:11+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "FC Barcelona"
+      "FC Barcelona",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -198,8 +198,8 @@
     "date": "2025-05-23T14:00:23+07:00",
     "source": "Guardian",
     "clubs": [
-      "Arsenal FC",
-      "FC Barcelona"
+      "FC Barcelona",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -359,8 +359,8 @@
     "date": "2025-05-23T17:57:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Crystal Palace FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -374,11 +374,11 @@
     "date": "2025-05-23T18:00:29+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
       "Real Madrid CF",
-      "Tottenham Hotspur FC",
       "Liverpool FC",
-      "Manchester City FC"
+      "Tottenham Hotspur FC",
+      "Manchester City FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -606,11 +606,11 @@
     "date": "2025-05-23T22:26:49+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
-      "West Ham United FC",
-      "Newcastle United FC",
       "Tottenham Hotspur FC",
-      "Manchester City FC"
+      "Crystal Palace FC",
+      "Newcastle United FC",
+      "Manchester City FC",
+      "West Ham United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -624,8 +624,8 @@
     "date": "2025-05-23T22:28:00+07:00",
     "source": "Guardian",
     "clubs": [
-      "Everton FC",
-      "Real Madrid CF"
+      "Real Madrid CF",
+      "Everton FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -689,8 +689,8 @@
     "date": "2025-05-23T23:25:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Arsenal FC",
-      "Southampton FC"
+      "Southampton FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

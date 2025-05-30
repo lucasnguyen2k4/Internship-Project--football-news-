@@ -76,14 +76,14 @@
     "date": "2025-05-25T01:42:11+07:00",
     "source": "BBC",
     "clubs": [
-      "Sunderland AFC",
-      "Brighton & Hove Albion FC"
+      "Brighton & Hove Albion FC",
+      "Sunderland AFC"
     ],
     "leagues": [
-      "English Championship 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "English Championship 2024/25"
     ],
-    "main_league": "English Championship 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Jack Grealish looks out of time at Manchester City now Guardiola has moved the goalposts | Jonathan Liew",
@@ -149,14 +149,14 @@
     "date": "2025-05-25T02:56:19+07:00",
     "source": "Guardian",
     "clubs": [
-      "Sunderland AFC",
-      "Brighton & Hove Albion FC"
+      "Brighton & Hove Albion FC",
+      "Sunderland AFC"
     ],
     "leagues": [
-      "English Championship 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "English Championship 2024/25"
     ],
-    "main_league": "English Championship 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Watch Aberdeen lift Scottish Cup for first time since 1990",
@@ -239,8 +239,8 @@
     "clubs": [
       "Newcastle United FC",
       "FC Bayern München",
-      "SSC Napoli",
-      "Liverpool FC"
+      "Liverpool FC",
+      "SSC Napoli"
     ],
     "leagues": [
       "Italian Serie A 2024/25",
@@ -256,8 +256,8 @@
     "date": "2025-05-25T05:26:55+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "FC Barcelona"
+      "FC Barcelona",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -395,14 +395,14 @@
     "date": "2025-05-25T14:28:04+07:00",
     "source": "BBC",
     "clubs": [
-      "Rangers FC",
-      "Everton FC"
+      "Everton FC",
+      "Rangers FC"
     ],
     "leagues": [
-      "Scottish Premiership 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Scottish Premiership 2024/25"
     ],
-    "main_league": "Scottish Premiership 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "The secrets behind Arsenal's rise to Queens of Europe",
@@ -444,8 +444,8 @@
       "Bayer 04 Leverkusen"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "Deutsche Bundesliga 2024/25"
+      "Deutsche Bundesliga 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },
@@ -500,8 +500,8 @@
     "date": "2025-05-25T21:13:13+07:00",
     "source": "Guardian",
     "clubs": [
-      "Arsenal FC",
-      "Southampton FC"
+      "Southampton FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -543,8 +543,8 @@
     "date": "2025-05-25T21:30:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Chelsea FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -612,11 +612,11 @@
     "date": "2025-05-25T23:25:08+07:00",
     "source": "Guardian",
     "clubs": [
+      "Liverpool FC",
+      "Manchester City FC",
       "Fulham FC",
       "Newcastle United FC",
-      "Liverpool FC",
-      "Everton FC",
-      "Manchester City FC"
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -630,8 +630,8 @@
     "date": "2025-05-25T23:25:13+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

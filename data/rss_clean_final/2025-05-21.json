@@ -86,8 +86,8 @@
     "date": "2025-05-21T04:56:39+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Wolverhampton Wanderers FC"
+      "Wolverhampton Wanderers FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -187,8 +187,8 @@
     "date": "2025-05-21T14:46:59+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "FC Barcelona"
+      "FC Barcelona",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -283,19 +283,19 @@
     "date": "2025-05-21T18:30:13+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "Real Sociedad de Fútbol",
+      "Real Madrid CF",
+      "Liverpool FC",
       "Eintracht Frankfurt",
       "Arsenal FC",
-      "Real Madrid CF",
-      "Liverpool FC"
+      "Real Sociedad de Fútbol",
+      "Chelsea FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
+      "English Premier League 2024/25",
       "Deutsche Bundesliga 2024/25",
-      "English Premier League 2024/25"
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Five guilty of hate crimes for racist abuse of Vinicius Jr",
@@ -324,14 +324,14 @@
     "date": "2025-05-21T19:26:55+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
-      "Olympique Lyonnais"
+      "Olympique Lyonnais",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "French Ligue 1 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "French Ligue 1 2024/25"
   },
   {
     "title": "Big Dunc - From Barlinnie hell to Goodison heaven",
@@ -364,10 +364,10 @@
     "date": "2025-05-21T20:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Crystal Palace FC",
       "Nottingham Forest FC",
+      "Liverpool FC",
       "Chelsea FC",
-      "Liverpool FC"
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -381,8 +381,8 @@
     "date": "2025-05-21T20:13:51+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Southampton FC"
+      "Southampton FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -410,9 +410,9 @@
     "date": "2025-05-21T20:54:26+07:00",
     "source": "Guardian",
     "clubs": [
+      "Liverpool FC",
       "Crystal Palace FC",
-      "Wolverhampton Wanderers FC",
-      "Liverpool FC"
+      "Wolverhampton Wanderers FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -481,8 +481,8 @@
     "clubs": [
       "Newcastle United FC",
       "Manchester United FC",
-      "Chelsea FC",
-      "Ipswich Town FC"
+      "Ipswich Town FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -496,8 +496,8 @@
     "date": "2025-05-21T23:00:15+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -511,9 +511,9 @@
     "date": "2025-05-21T23:00:33+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
+      "Manchester City FC",
       "Manchester United FC",
-      "Manchester City FC"
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

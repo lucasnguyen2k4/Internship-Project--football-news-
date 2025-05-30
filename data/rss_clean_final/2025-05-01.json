@@ -33,8 +33,8 @@
     "date": "2025-05-01T01:31:09+07:00",
     "source": "Guardian",
     "clubs": [
-      "West Ham United FC",
-      "Tottenham Hotspur FC"
+      "Tottenham Hotspur FC",
+      "West Ham United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -177,8 +177,8 @@
     "date": "2025-05-01T04:03:50+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -191,8 +191,8 @@
     "date": "2025-05-01T04:04:50+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -256,8 +256,8 @@
     "date": "2025-05-01T05:55:15+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -302,16 +302,16 @@
     "date": "2025-05-01T13:55:32+07:00",
     "source": "BBC",
     "clubs": [
-      "Rangers FC",
       "Everton FC",
+      "Rangers FC",
       "Burnley FC"
     ],
     "leagues": [
-      "Scottish Premiership 2024/25",
+      "English Premier League 2024/25",
       "English Championship 2024/25",
-      "English Premier League 2024/25"
+      "Scottish Premiership 2024/25"
     ],
-    "main_league": "Scottish Premiership 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Listen: Manager of the year and Championship goes to the wire",
@@ -459,8 +459,8 @@
     "date": "2025-05-01T18:09:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -528,8 +528,8 @@
     "date": "2025-05-01T19:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Burnley FC",
-      "Leeds United FC"
+      "Leeds United FC",
+      "Burnley FC"
     ],
     "leagues": [
       "English Championship 2024/25"
@@ -552,8 +552,8 @@
     "date": "2025-05-01T19:40:19+07:00",
     "source": "Guardian",
     "clubs": [
-      "Wolverhampton Wanderers FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Wolverhampton Wanderers FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -613,8 +613,8 @@
     "date": "2025-05-01T21:08:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Leicester City FC",
-      "Southampton FC"
+      "Southampton FC",
+      "Leicester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

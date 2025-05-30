@@ -63,8 +63,8 @@
     "date": "2025-04-30T05:53:42+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -86,8 +86,8 @@
     "date": "2025-04-30T12:13:54+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Internazionale Milano",
-      "Real Madrid CF"
+      "Real Madrid CF",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -114,16 +114,16 @@
     "date": "2025-04-30T12:44:45+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "AFC Bournemouth",
       "Real Madrid CF",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Chelsea FC",
+      "AFC Bournemouth"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Bradley's memories of Irish Cup finalists - and is he next Gerrard?",
@@ -146,8 +146,8 @@
     "date": "2025-04-30T13:40:40+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -206,8 +206,8 @@
     "date": "2025-04-30T16:01:13+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "AFC Bournemouth"
+      "AFC Bournemouth",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -235,9 +235,9 @@
     "date": "2025-04-30T16:30:57+07:00",
     "source": "Guardian",
     "clubs": [
-      "Arsenal FC",
+      "AFC Bournemouth",
       "Manchester United FC",
-      "AFC Bournemouth"
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -368,8 +368,8 @@
     "date": "2025-04-30T19:50:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -510,8 +510,8 @@
     "date": "2025-04-30T22:21:29+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -524,14 +524,14 @@
     "date": "2025-04-30T22:30:25+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Club Atlético de Madrid"
+      "Club Atlético de Madrid",
+      "Arsenal FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "New boss must 'galvanise' Cardiff - Ramsey",

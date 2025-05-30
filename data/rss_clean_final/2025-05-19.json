@@ -6,8 +6,8 @@
     "date": "2025-05-19T00:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Brentford FC",
-      "Fulham FC"
+      "Fulham FC",
+      "Brentford FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -75,8 +75,8 @@
     "source": "Guardian",
     "clubs": [
       "Newcastle United FC",
-      "Arsenal FC",
-      "Wolverhampton Wanderers FC"
+      "Wolverhampton Wanderers FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -90,8 +90,8 @@
     "date": "2025-05-19T00:41:20+07:00",
     "source": "BBC",
     "clubs": [
-      "Brentford FC",
-      "Fulham FC"
+      "Fulham FC",
+      "Brentford FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -207,8 +207,8 @@
     "date": "2025-05-19T03:43:00+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Brentford FC"
+      "Brentford FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -247,17 +247,17 @@
     "date": "2025-05-19T04:30:45+07:00",
     "source": "Guardian",
     "clubs": [
-      "Bayer 04 Leverkusen",
-      "Arsenal FC",
-      "Tottenham Hotspur FC",
       "Liverpool FC",
+      "Tottenham Hotspur FC",
+      "Arsenal FC",
+      "Bayer 04 Leverkusen",
       "Brighton & Hove Albion FC"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Pep Guardiola urges his side to refocus on Champions League qualification",
@@ -266,9 +266,9 @@
     "date": "2025-05-19T04:30:45+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
       "AFC Bournemouth",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -564,12 +564,12 @@
     "date": "2025-05-19T19:19:08+07:00",
     "source": "Guardian",
     "clubs": [
-      "Borussia Dortmund",
-      "Borussia Mönchengladbach",
-      "FC Bayern München",
       "Eintracht Frankfurt",
+      "FC Bayern München",
+      "Holstein Kiel",
+      "Borussia Dortmund",
       "Bayer 04 Leverkusen",
-      "Holstein Kiel"
+      "Borussia Mönchengladbach"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25"
@@ -710,8 +710,8 @@
     "date": "2025-05-19T23:31:51+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "FC Barcelona"
+      "FC Barcelona",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"

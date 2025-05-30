@@ -76,12 +76,12 @@
     "date": "2025-05-09T04:01:55+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Chelsea FC"
     ],
     "leagues": [
-      "UEFA Europa Conference League 2024/25",
-      "UEFA Europa League 2024/25"
+      "UEFA Europa League 2024/25",
+      "UEFA Europa Conference League 2024/25"
     ]
   },
   {
@@ -147,10 +147,10 @@
     "date": "2025-05-09T04:30:40+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Internazionale Milano",
-      "Arsenal FC",
       "Real Madrid CF",
-      "FC Bayern München"
+      "FC Bayern München",
+      "FC Internazionale Milano",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -188,8 +188,8 @@
     "date": "2025-05-09T04:45:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Chelsea FC",
-      "Real Betis Balompié"
+      "Real Betis Balompié",
+      "Chelsea FC"
     ],
     "leagues": [
       "UEFA Europa Conference League 2024/25"
@@ -270,8 +270,8 @@
     "date": "2025-05-09T05:58:29+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Real Betis Balompié"
+      "Real Betis Balompié",
+      "Chelsea FC"
     ],
     "leagues": [
       "UEFA Europa Conference League 2024/25"
@@ -422,8 +422,8 @@
     "source": "Guardian",
     "clubs": [
       "Manchester United FC",
-      "Athletic Club",
-      "Tottenham Hotspur FC"
+      "Tottenham Hotspur FC",
+      "Athletic Club"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -518,8 +518,8 @@
       "Bayer 04 Leverkusen"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "Deutsche Bundesliga 2024/25"
+      "Deutsche Bundesliga 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },
@@ -603,8 +603,8 @@
       "Bayer 04 Leverkusen"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "Deutsche Bundesliga 2024/25"
+      "Deutsche Bundesliga 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },
@@ -625,8 +625,8 @@
     "source": "Guardian",
     "clubs": [
       "Manchester United FC",
-      "Athletic Club",
-      "Tottenham Hotspur FC"
+      "Tottenham Hotspur FC",
+      "Athletic Club"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -697,14 +697,14 @@
     "date": "2025-05-09T21:07:45+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Bayern München",
-      "Manchester City FC"
+      "Manchester City FC",
+      "FC Bayern München"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Kartal dumped out of Rome in straight sets by Noskova",
@@ -737,8 +737,8 @@
     "date": "2025-05-09T22:10:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Arsenal FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -825,8 +825,8 @@
     "date": "2025-05-09T23:10:15+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
-      "Everton FC"
+      "Everton FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

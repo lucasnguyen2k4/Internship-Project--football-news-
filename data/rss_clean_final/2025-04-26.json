@@ -34,10 +34,10 @@
     "date": "2025-04-26T00:27:03+07:00",
     "source": "Guardian",
     "clubs": [
-      "Nottingham Forest FC",
-      "Aston Villa FC",
       "Manchester City FC",
-      "Liverpool FC"
+      "Nottingham Forest FC",
+      "Liverpool FC",
+      "Aston Villa FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -107,8 +107,8 @@
     "date": "2025-04-26T04:26:33+07:00",
     "source": "Guardian",
     "clubs": [
-      "Arsenal FC",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -135,8 +135,8 @@
     "date": "2025-04-26T04:31:38+07:00",
     "source": "Guardian",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -151,14 +151,14 @@
     "source": "BBC",
     "clubs": [
       "Manchester United FC",
-      "FC Barcelona",
       "Arsenal FC",
-      "Nottingham Forest FC",
-      "Manchester City FC"
+      "FC Barcelona",
+      "Manchester City FC",
+      "Nottingham Forest FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "English Premier League 2024/25"
   },
@@ -275,8 +275,8 @@
     "date": "2025-04-26T20:30:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "West Ham United FC",
-      "Brighton & Hove Albion FC"
+      "Brighton & Hove Albion FC",
+      "West Ham United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -290,8 +290,8 @@
     "date": "2025-04-26T20:30:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "West Ham United FC",
-      "Brighton & Hove Albion FC"
+      "Brighton & Hove Albion FC",
+      "West Ham United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -334,8 +334,8 @@
     "date": "2025-04-26T21:15:18+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Everton FC"
+      "Everton FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -349,8 +349,8 @@
     "date": "2025-04-26T21:15:39+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Everton FC"
+      "Everton FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -388,8 +388,8 @@
     "date": "2025-04-26T22:09:58+07:00",
     "source": "BBC",
     "clubs": [
-      "Celtic FC",
-      "Dundee United"
+      "Dundee United",
+      "Celtic FC"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"
@@ -426,12 +426,12 @@
     "date": "2025-04-26T23:29:38+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "West Ham United FC",
-      "Leicester City FC",
       "Southampton FC",
+      "Leicester City FC",
+      "Ipswich Town FC",
       "Brighton & Hove Albion FC",
-      "Ipswich Town FC"
+      "Chelsea FC",
+      "West Ham United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -476,8 +476,8 @@
     "date": "2025-04-26T23:57:50+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

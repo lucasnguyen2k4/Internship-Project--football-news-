@@ -117,8 +117,8 @@
       "Liverpool FC"
     ],
     "leagues": [
-      "Scottish Premiership 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Scottish Premiership 2024/25"
     ],
     "main_league": "Scottish Premiership 2024/25"
   },
@@ -184,8 +184,8 @@
     "date": "2025-05-28T18:24:46+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Real Betis Balompié"
+      "Real Betis Balompié",
+      "Chelsea FC"
     ],
     "leagues": [
       "UEFA Europa Conference League 2024/25"
@@ -202,8 +202,8 @@
       "Real Sociedad de Fútbol"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "English Premier League 2024/25"
   },
@@ -232,8 +232,8 @@
       "Real Sociedad de Fútbol"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "English Premier League 2024/25"
   },
@@ -283,10 +283,10 @@
     "date": "2025-05-28T19:44:07+07:00",
     "source": "Guardian",
     "clubs": [
-      "Burnley FC",
-      "Tottenham Hotspur FC",
+      "Leeds United FC",
       "Liverpool FC",
-      "Leeds United FC"
+      "Tottenham Hotspur FC",
+      "Burnley FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -299,16 +299,16 @@
     "date": "2025-05-28T19:58:11+07:00",
     "source": "Guardian",
     "clubs": [
-      "Arsenal FC",
       "Real Madrid CF",
-      "Real Sociedad de Fútbol",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Arsenal FC",
+      "Real Sociedad de Fútbol"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Lego and tattoos - Wales' role model goalkeeper",
@@ -426,9 +426,9 @@
     "date": "2025-05-28T22:58:20+07:00",
     "source": "Guardian",
     "clubs": [
-      "Arsenal FC",
       "Manchester United FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -484,19 +484,19 @@
     "date": "2025-05-28T23:41:29+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
       "Valencia CF",
-      "West Ham United FC",
       "Leeds United FC",
-      "Brentford FC",
       "Liverpool FC",
-      "Everton FC"
+      "Brentford FC",
+      "Chelsea FC",
+      "Everton FC",
+      "West Ham United FC"
     ],
     "leagues": [
+      "English Premier League 2024/25",
       "Spain Primera División 2024/25",
-      "English Championship 2024/25",
-      "English Premier League 2024/25"
+      "English Championship 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   }
 ]

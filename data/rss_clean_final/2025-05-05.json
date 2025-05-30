@@ -48,9 +48,9 @@
     "date": "2025-05-05T00:24:47+07:00",
     "source": "Guardian",
     "clubs": [
+      "RB Leipzig",
       "FC Bayern München",
-      "Bayer 04 Leverkusen",
-      "RB Leipzig"
+      "Bayer 04 Leverkusen"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25"
@@ -77,8 +77,8 @@
     "date": "2025-05-05T01:19:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester United FC"
+      "Manchester United FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -92,8 +92,8 @@
     "date": "2025-05-05T01:31:57+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -106,8 +106,8 @@
     "date": "2025-05-05T02:31:22+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -162,9 +162,9 @@
     "date": "2025-05-05T02:53:16+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
+      "Manchester City FC",
       "Brentford FC",
-      "Manchester City FC"
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -202,8 +202,8 @@
     "date": "2025-05-05T05:17:00+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -217,8 +217,8 @@
     "date": "2025-05-05T05:45:45+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -284,12 +284,12 @@
     "source": "Guardian",
     "clubs": [
       "Real Madrid CF",
-      "Tottenham Hotspur FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },
@@ -304,8 +304,8 @@
       "Liverpool FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },
@@ -320,8 +320,8 @@
       "Liverpool FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },
@@ -350,8 +350,8 @@
       "Liverpool FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },
@@ -395,8 +395,8 @@
       "Liverpool FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },
@@ -408,9 +408,9 @@
     "source": "Guardian",
     "clubs": [
       "FC Bayern München",
-      "Bayer 04 Leverkusen",
+      "FC Barcelona",
       "Borussia Mönchengladbach",
-      "FC Barcelona"
+      "Bayer 04 Leverkusen"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25"

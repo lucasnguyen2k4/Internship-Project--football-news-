@@ -21,8 +21,8 @@
     "date": "2025-05-26T00:21:50+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester United FC",
       "Tottenham Hotspur FC",
+      "Manchester United FC",
       "Brighton & Hove Albion FC",
       "Aston Villa FC"
     ],
@@ -49,9 +49,9 @@
     "date": "2025-05-26T00:23:30+07:00",
     "source": "Guardian",
     "clubs": [
-      "Newcastle United FC",
       "Everton FC",
       "Manchester United FC",
+      "Newcastle United FC",
       "Aston Villa FC"
     ],
     "leagues": [
@@ -110,8 +110,8 @@
     "date": "2025-05-26T00:53:10+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -139,8 +139,8 @@
     "date": "2025-05-26T01:17:19+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -153,8 +153,8 @@
     "date": "2025-05-26T01:22:38+07:00",
     "source": "BBC",
     "clubs": [
-      "Newcastle United FC",
-      "Everton FC"
+      "Everton FC",
+      "Newcastle United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -182,8 +182,8 @@
     "date": "2025-05-26T01:55:49+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Southampton FC"
+      "Southampton FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -211,8 +211,8 @@
     "date": "2025-05-26T02:15:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Crystal Palace FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -280,11 +280,11 @@
     "date": "2025-05-26T02:34:43+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "Nottingham Forest FC",
-      "Newcastle United FC",
       "Leicester City FC",
-      "Everton FC"
+      "Newcastle United FC",
+      "Chelsea FC",
+      "Everton FC",
+      "Nottingham Forest FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25",
@@ -298,16 +298,16 @@
     "date": "2025-05-26T02:37:46+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
-      "Arsenal FC",
       "Real Madrid CF",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Arsenal FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Salah has final say on day of 'special' Liverpool celebrations",
@@ -358,8 +358,8 @@
     "date": "2025-05-26T02:47:59+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -400,9 +400,9 @@
     "date": "2025-05-26T02:54:21+07:00",
     "source": "Guardian",
     "clubs": [
-      "Newcastle United FC",
       "Everton FC",
       "Manchester United FC",
+      "Newcastle United FC",
       "Aston Villa FC"
     ],
     "leagues": [
@@ -430,8 +430,8 @@
     "date": "2025-05-26T04:17:36+07:00",
     "source": "BBC",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -446,8 +446,8 @@
     "source": "BBC",
     "clubs": [
       "FC Bayern München",
-      "Arsenal FC",
       "Manchester United FC",
+      "Arsenal FC",
       "SSC Napoli"
     ],
     "leagues": [
@@ -575,10 +575,10 @@
     "date": "2025-05-26T15:00:51+07:00",
     "source": "Guardian",
     "clubs": [
-      "Arsenal FC",
+      "Liverpool FC",
       "Tottenham Hotspur FC",
-      "Wolverhampton Wanderers FC",
-      "Liverpool FC"
+      "Arsenal FC",
+      "Wolverhampton Wanderers FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -617,8 +617,8 @@
       "Tottenham Hotspur FC"
     ],
     "leagues": [
-      "English Championship 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "English Championship 2024/25"
     ],
     "main_league": "English Championship 2024/25"
   },
@@ -629,17 +629,17 @@
     "date": "2025-05-26T16:17:43+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Bayern München",
       "Real Madrid CF",
+      "FC Bayern München",
       "Manchester United FC",
       "Bayer 04 Leverkusen"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
+      "English Premier League 2024/25",
       "Deutsche Bundesliga 2024/25",
-      "English Premier League 2024/25"
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Premier League 2024-25 review: signings of the season",
@@ -648,9 +648,9 @@
     "date": "2025-05-26T16:30:53+07:00",
     "source": "Guardian",
     "clubs": [
-      "AFC Bournemouth",
       "Real Madrid CF",
       "Liverpool FC",
+      "AFC Bournemouth",
       "Nottingham Forest FC",
       "Ipswich Town FC"
     ],
@@ -682,8 +682,8 @@
     "date": "2025-05-26T17:00:54+07:00",
     "source": "Guardian",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -698,8 +698,8 @@
     "source": "Guardian",
     "clubs": [
       "AS Roma",
-      "SSC Napoli",
-      "Juventus FC"
+      "Juventus FC",
+      "SSC Napoli"
     ],
     "leagues": [
       "Italian Serie A 2024/25"
@@ -859,8 +859,8 @@
     "date": "2025-05-26T23:54:14+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

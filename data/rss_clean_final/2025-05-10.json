@@ -34,16 +34,16 @@
     "date": "2025-05-10T04:02:07+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
+      "Coventry City FC",
       "Bristol City FC",
       "Sunderland AFC",
-      "Coventry City FC"
+      "Chelsea FC"
     ],
     "leagues": [
-      "English Championship 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "English Championship 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "English Championship 2024/25"
   },
   {
     "title": "Watch: Partick secure dramatic play-off win at Ayr",
@@ -74,17 +74,17 @@
     "date": "2025-05-10T04:30:36+07:00",
     "source": "Guardian",
     "clubs": [
-      "Arsenal FC",
       "Real Madrid CF",
+      "Paris Saint-Germain FC",
       "Liverpool FC",
-      "Paris Saint-Germain FC"
+      "Arsenal FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
       "French Ligue 1 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Isidor's superb finish stuns Coventry!",
@@ -93,8 +93,8 @@
     "date": "2025-05-10T04:32:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Sunderland AFC",
-      "Coventry City FC"
+      "Coventry City FC",
+      "Sunderland AFC"
     ],
     "leagues": [
       "English Championship 2024/25"
@@ -108,18 +108,18 @@
     "date": "2025-05-10T04:39:37+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Borussia Dortmund",
       "Real Madrid CF",
-      "AC Milan"
+      "Borussia Dortmund",
+      "AC Milan",
+      "Chelsea FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
       "Italian Serie A 2024/25",
+      "English Premier League 2024/25",
       "Deutsche Bundesliga 2024/25",
-      "English Premier League 2024/25"
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Disaster! Mayenda pounces on huge Coventry mistake late on!",
@@ -128,8 +128,8 @@
     "date": "2025-05-10T04:52:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Sunderland AFC",
-      "Coventry City FC"
+      "Coventry City FC",
+      "Sunderland AFC"
     ],
     "leagues": [
       "English Championship 2024/25"
@@ -143,8 +143,8 @@
     "date": "2025-05-10T05:13:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Sunderland AFC",
-      "Coventry City FC"
+      "Coventry City FC",
+      "Sunderland AFC"
     ],
     "leagues": [
       "English Championship 2024/25"
@@ -158,8 +158,8 @@
     "date": "2025-05-10T06:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Sunderland AFC",
-      "Coventry City FC"
+      "Coventry City FC",
+      "Sunderland AFC"
     ],
     "leagues": [
       "English Championship 2024/25"
@@ -196,9 +196,9 @@
     "date": "2025-05-10T14:00:49+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Internazionale Milano",
       "Real Madrid CF",
-      "FC Barcelona"
+      "FC Barcelona",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -247,14 +247,14 @@
     "date": "2025-05-10T18:49:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Borussia Dortmund",
-      "Sunderland AFC"
+      "Sunderland AFC",
+      "Borussia Dortmund"
     ],
     "leagues": [
-      "English Championship 2024/25",
-      "Deutsche Bundesliga 2024/25"
+      "Deutsche Bundesliga 2024/25",
+      "English Championship 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "English Championship 2024/25"
   },
   {
     "title": "Deflected Mykolenko effort draws Everton level at Fulham LIVE!",
@@ -287,9 +287,9 @@
     "date": "2025-05-10T21:51:44+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester City FC",
       "Everton FC",
       "Fulham FC",
+      "Manchester City FC",
       "Southampton FC"
     ],
     "leagues": [
@@ -313,8 +313,8 @@
     "date": "2025-05-10T22:56:14+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "FC Barcelona"
+      "FC Barcelona",
+      "Arsenal FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -350,8 +350,8 @@
     "date": "2025-05-10T23:50:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Rangers FC",
-      "Aberdeen FC"
+      "Aberdeen FC",
+      "Rangers FC"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"

@@ -17,9 +17,9 @@
     "date": "2025-04-18T01:05:00+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Internazionale Milano",
       "Real Madrid CF",
-      "FC Bayern München"
+      "FC Bayern München",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -46,8 +46,8 @@
     "date": "2025-04-18T05:40:49+07:00",
     "source": "Guardian",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Eintracht Frankfurt"
+      "Eintracht Frankfurt",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -132,8 +132,8 @@
       "Liverpool FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },
@@ -144,14 +144,14 @@
     "date": "2025-04-18T12:28:45+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Real Madrid CF"
+      "Real Madrid CF",
+      "Chelsea FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Surprise as 100 Spaniards turn up at non-league game",
@@ -174,8 +174,8 @@
       "Sunderland AFC"
     ],
     "leagues": [
-      "English Championship 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "English Championship 2024/25"
     ],
     "main_league": "English Premier League 2024/25"
   },
@@ -186,8 +186,8 @@
     "date": "2025-04-18T14:00:04+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -235,8 +235,8 @@
     "date": "2025-04-18T15:00:03+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "Brighton & Hove Albion FC"
+      "Brighton & Hove Albion FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -250,8 +250,8 @@
     "date": "2025-04-18T15:45:25+07:00",
     "source": "BBC",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Eintracht Frankfurt"
+      "Eintracht Frankfurt",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -332,11 +332,11 @@
     "date": "2025-04-18T19:30:09+07:00",
     "source": "Guardian",
     "clubs": [
-      "AFC Bournemouth",
       "Manchester United FC",
+      "Athletic Club",
+      "AFC Bournemouth",
       "Brentford FC",
-      "Wolverhampton Wanderers FC",
-      "Athletic Club"
+      "Wolverhampton Wanderers FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -378,9 +378,9 @@
     "date": "2025-04-18T19:58:32+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
       "Manchester United FC",
-      "Tottenham Hotspur FC"
+      "Tottenham Hotspur FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -426,8 +426,8 @@
       "Bayer 04 Leverkusen"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "Deutsche Bundesliga 2024/25"
+      "Deutsche Bundesliga 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },

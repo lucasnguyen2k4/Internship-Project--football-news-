@@ -29,8 +29,8 @@
     "date": "2025-05-13T02:00:19+07:00",
     "source": "Guardian",
     "clubs": [
-      "Arsenal FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -80,16 +80,16 @@
     "date": "2025-05-13T03:57:15+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
+      "AC Milan",
       "Manchester City FC",
-      "Liverpool FC",
-      "AC Milan"
+      "Manchester United FC",
+      "Liverpool FC"
     ],
     "leagues": [
       "Italian Serie A 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Italian Serie A 2024/25"
   },
   {
     "title": "O’Hare lands last blow on Bristol City as Sheffield United barrel into playoff final",
@@ -157,8 +157,8 @@
     "date": "2025-05-13T05:14:12+07:00",
     "source": "Guardian",
     "clubs": [
-      "Leicester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Leicester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -172,14 +172,14 @@
     "date": "2025-05-13T05:16:47+07:00",
     "source": "BBC",
     "clubs": [
-      "Rangers FC",
-      "Real Madrid CF"
+      "Real Madrid CF",
+      "Rangers FC"
     ],
     "leagues": [
       "Spain Primera División 2024/25",
       "Scottish Premiership 2024/25"
     ],
-    "main_league": "Scottish Premiership 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Papers: Real Madrid target summer move for Spurs defender Romero",
@@ -192,8 +192,8 @@
       "Tottenham Hotspur FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },
@@ -286,9 +286,9 @@
     "date": "2025-05-13T16:38:23+07:00",
     "source": "Guardian",
     "clubs": [
+      "Fulham FC",
       "Manchester United FC",
-      "Tottenham Hotspur FC",
-      "Fulham FC"
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -329,8 +329,8 @@
     "date": "2025-05-13T17:57:11+07:00",
     "source": "BBC",
     "clubs": [
-      "Leicester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Leicester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -358,8 +358,8 @@
     "date": "2025-05-13T19:00:38+07:00",
     "source": "Guardian",
     "clubs": [
-      "Leicester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Leicester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -454,8 +454,8 @@
     "date": "2025-05-13T22:16:25+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -469,8 +469,8 @@
     "date": "2025-05-13T22:18:37+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -483,17 +483,17 @@
     "date": "2025-05-13T22:32:10+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
       "Manchester United FC",
-      "Arsenal FC",
       "Liverpool FC",
-      "Coventry City FC",
+      "Arsenal FC",
+      "Manchester City FC",
       "Brighton & Hove Albion FC",
-      "Manchester City FC"
+      "Chelsea FC",
+      "Coventry City FC"
     ],
     "leagues": [
-      "English Championship 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "English Championship 2024/25"
     ],
     "main_league": "English Premier League 2024/25"
   },
@@ -518,8 +518,8 @@
     "date": "2025-05-13T22:41:06+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -533,8 +533,8 @@
     "date": "2025-05-13T22:45:35+07:00",
     "source": "BBC",
     "clubs": [
-      "Leicester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Leicester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -548,20 +548,20 @@
     "date": "2025-05-13T23:07:37+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "AFC Bournemouth",
-      "FC Bayern München",
-      "Newcastle United FC",
-      "Arsenal FC",
       "Real Madrid CF",
-      "Liverpool FC"
+      "Liverpool FC",
+      "FC Bayern München",
+      "Arsenal FC",
+      "Newcastle United FC",
+      "AFC Bournemouth",
+      "Chelsea FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
+      "English Premier League 2024/25",
       "Deutsche Bundesliga 2024/25",
-      "English Premier League 2024/25"
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Court denies Uruguay players’ appeal, upholds bans after Copa América brawl",
@@ -570,15 +570,15 @@
     "date": "2025-05-13T23:07:38+07:00",
     "source": "Guardian",
     "clubs": [
-      "Liverpool FC",
       "Club Atlético de Madrid",
+      "Liverpool FC",
       "FC Barcelona"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Man Utd in pole position to sign Delap",

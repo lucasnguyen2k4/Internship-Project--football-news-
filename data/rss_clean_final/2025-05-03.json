@@ -46,15 +46,15 @@
     "date": "2025-05-03T02:43:34+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
+      "Bayer 04 Leverkusen",
       "Manchester United FC",
-      "Bayer 04 Leverkusen"
+      "Crystal Palace FC"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Deutsche Bundesliga 2024/25"
   },
   {
     "title": "De Bruyne sinks Wolves to help Manchester City close in on top-five finish",
@@ -63,8 +63,8 @@
     "date": "2025-05-03T04:07:52+07:00",
     "source": "Guardian",
     "clubs": [
-      "Wolverhampton Wanderers FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Wolverhampton Wanderers FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -78,8 +78,8 @@
     "date": "2025-05-03T04:30:20+07:00",
     "source": "Guardian",
     "clubs": [
-      "West Ham United FC",
-      "Tottenham Hotspur FC"
+      "Tottenham Hotspur FC",
+      "West Ham United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -105,8 +105,8 @@
     "date": "2025-05-03T04:58:34+07:00",
     "source": "BBC",
     "clubs": [
-      "Wolverhampton Wanderers FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Wolverhampton Wanderers FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -120,8 +120,8 @@
     "date": "2025-05-03T05:01:30+07:00",
     "source": "BBC",
     "clubs": [
-      "Wolverhampton Wanderers FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Wolverhampton Wanderers FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -149,8 +149,8 @@
     "date": "2025-05-03T05:34:47+07:00",
     "source": "BBC",
     "clubs": [
-      "Wolverhampton Wanderers FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Wolverhampton Wanderers FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -193,16 +193,16 @@
     "date": "2025-05-03T14:00:32+07:00",
     "source": "Guardian",
     "clubs": [
-      "Burnley FC",
+      "Southampton FC",
       "Leeds United FC",
       "Ipswich Town FC",
-      "Southampton FC"
+      "Burnley FC"
     ],
     "leagues": [
-      "English Championship 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "English Championship 2024/25"
     ],
-    "main_league": "English Championship 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Lamine Yamal: the perfect dopamine-hit footballer for our terminally online world | Barney Ronay",
@@ -286,8 +286,8 @@
     "date": "2025-05-03T19:36:16+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -329,8 +329,8 @@
     "date": "2025-05-03T20:18:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Burnley FC",
-      "Millwall FC"
+      "Millwall FC",
+      "Burnley FC"
     ],
     "leagues": [
       "English Championship 2024/25"
@@ -344,10 +344,10 @@
     "date": "2025-05-03T20:36:20+07:00",
     "source": "Guardian",
     "clubs": [
-      "Millwall FC",
-      "Burnley FC",
       "Leeds United FC",
+      "Burnley FC",
       "Bristol City FC",
+      "Millwall FC",
       "Coventry City FC"
     ],
     "leagues": [
@@ -362,8 +362,8 @@
     "date": "2025-05-03T20:40:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Aston Villa FC",
-      "Fulham FC"
+      "Fulham FC",
+      "Aston Villa FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -414,8 +414,8 @@
     "date": "2025-05-03T21:30:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Aston Villa FC",
-      "Fulham FC"
+      "Fulham FC",
+      "Aston Villa FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -428,8 +428,8 @@
     "date": "2025-05-03T21:45:46+07:00",
     "source": "BBC",
     "clubs": [
-      "Aston Villa FC",
-      "Fulham FC"
+      "Fulham FC",
+      "Aston Villa FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -443,8 +443,8 @@
     "date": "2025-05-03T21:45:49+07:00",
     "source": "BBC",
     "clubs": [
-      "Aston Villa FC",
-      "Fulham FC"
+      "Fulham FC",
+      "Aston Villa FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -480,14 +480,14 @@
     "date": "2025-05-03T22:47:16+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Bayern München",
       "RB Leipzig",
-      "Bayer 04 Leverkusen",
-      "FC Barcelona"
+      "FC Bayern München",
+      "FC Barcelona",
+      "Bayer 04 Leverkusen"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "Deutsche Bundesliga 2024/25"
+      "Deutsche Bundesliga 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Deutsche Bundesliga 2024/25"
   },
@@ -498,8 +498,8 @@
     "date": "2025-05-03T23:16:38+07:00",
     "source": "Guardian",
     "clubs": [
-      "Leicester City FC",
-      "Southampton FC"
+      "Southampton FC",
+      "Leicester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -546,8 +546,8 @@
     "date": "2025-05-03T23:55:41+07:00",
     "source": "BBC",
     "clubs": [
-      "Leicester City FC",
-      "Southampton FC"
+      "Southampton FC",
+      "Leicester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

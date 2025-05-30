@@ -78,12 +78,12 @@
     "source": "BBC",
     "clubs": [
       "Real Madrid CF",
-      "Wolverhampton Wanderers FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Wolverhampton Wanderers FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
     "main_league": "Spain Primera División 2024/25"
   },
@@ -94,10 +94,10 @@
     "date": "2025-05-17T03:40:20+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "Manchester United FC",
       "Tottenham Hotspur FC",
-      "Aston Villa FC"
+      "Manchester United FC",
+      "Aston Villa FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -135,8 +135,8 @@
     "date": "2025-05-17T04:20:02+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "Manchester United FC"
+      "Manchester United FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -193,9 +193,9 @@
     "date": "2025-05-17T05:09:51+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
       "Manchester United FC",
-      "Tottenham Hotspur FC"
+      "Tottenham Hotspur FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -209,8 +209,8 @@
     "date": "2025-05-17T05:20:22+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Manchester United FC"
+      "Manchester United FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -238,8 +238,8 @@
     "date": "2025-05-17T05:55:46+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -280,8 +280,8 @@
     "date": "2025-05-17T06:30:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Chelsea FC",
-      "Manchester United FC"
+      "Manchester United FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -295,8 +295,8 @@
     "date": "2025-05-17T12:11:04+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -310,8 +310,8 @@
     "date": "2025-05-17T13:01:44+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -325,8 +325,8 @@
     "date": "2025-05-17T14:03:42+07:00",
     "source": "BBC",
     "clubs": [
-      "Chelsea FC",
-      "Manchester United FC"
+      "Manchester United FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -358,8 +358,8 @@
       "Ipswich Town FC"
     ],
     "leagues": [
-      "Scottish Premiership 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Scottish Premiership 2024/25"
     ],
     "main_league": "Scottish Premiership 2024/25"
   },
@@ -388,23 +388,23 @@
     "date": "2025-05-17T17:41:57+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "AFC Bournemouth",
-      "FC Bayern München",
-      "Newcastle United FC",
-      "Arsenal FC",
       "Real Madrid CF",
       "Liverpool FC",
+      "FC Bayern München",
+      "Arsenal FC",
+      "AS Roma",
       "Juventus FC",
-      "AS Roma"
+      "Newcastle United FC",
+      "AFC Bournemouth",
+      "Chelsea FC"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
       "Italian Serie A 2024/25",
+      "English Premier League 2024/25",
       "Deutsche Bundesliga 2024/25",
-      "English Premier League 2024/25"
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Huijsen completes £50m move to Real Madrid",
@@ -413,14 +413,14 @@
     "date": "2025-05-17T18:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "AFC Bournemouth",
-      "Real Madrid CF"
+      "Real Madrid CF",
+      "AFC Bournemouth"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Newcastle’s elite rise unignorable but Arsenal links to Isak and Gordon irk Howe",
@@ -443,14 +443,14 @@
     "date": "2025-05-17T18:02:22+07:00",
     "source": "BBC",
     "clubs": [
-      "AFC Bournemouth",
-      "Real Madrid CF"
+      "Real Madrid CF",
+      "AFC Bournemouth"
     ],
     "leagues": [
-      "Spain Primera División 2024/25",
-      "English Premier League 2024/25"
+      "English Premier League 2024/25",
+      "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "'I don't think it's right' - Richards unhappy with FA Cup disrespect",
@@ -539,9 +539,9 @@
     "date": "2025-05-17T21:54:39+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
+      "Manchester City FC",
       "Aston Villa FC",
-      "Manchester City FC"
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -622,8 +622,8 @@
     "date": "2025-05-17T23:05:31+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -646,8 +646,8 @@
     "date": "2025-05-17T23:33:13+07:00",
     "source": "BBC",
     "clubs": [
-      "Crystal Palace FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

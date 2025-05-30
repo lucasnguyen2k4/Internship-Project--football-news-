@@ -67,8 +67,8 @@
     "date": "2025-05-24T01:47:03+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -110,8 +110,8 @@
     "date": "2025-05-24T02:30:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Newcastle United FC",
-      "Everton FC"
+      "Everton FC",
+      "Newcastle United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -153,9 +153,9 @@
     "date": "2025-05-24T03:00:52+07:00",
     "source": "Guardian",
     "clubs": [
-      "Chelsea FC",
+      "Nottingham Forest FC",
       "Manchester United FC",
-      "Nottingham Forest FC"
+      "Chelsea FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -182,14 +182,14 @@
     "date": "2025-05-24T03:30:25+07:00",
     "source": "BBC",
     "clubs": [
-      "Bayer 04 Leverkusen",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Bayer 04 Leverkusen"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "BBC pundits share Scottish Cup final predictions",
@@ -246,15 +246,15 @@
     "date": "2025-05-24T05:13:20+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Internazionale Milano",
       "Manchester United FC",
+      "FC Internazionale Milano",
       "SSC Napoli"
     ],
     "leagues": [
       "Italian Serie A 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Italian Serie A 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Al Hilal set to make £100m Fernandes bid - Saturday's gossip",
@@ -390,17 +390,17 @@
     "date": "2025-05-24T14:00:54+07:00",
     "source": "Guardian",
     "clubs": [
+      "Paris Saint-Germain FC",
       "Bologna FC 1909",
-      "Bayer 04 Leverkusen",
       "Olympique Lyonnais",
-      "Paris Saint-Germain FC"
+      "Bayer 04 Leverkusen"
     ],
     "leagues": [
-      "Deutsche Bundesliga 2024/25",
+      "French Ligue 1 2024/25",
       "Italian Serie A 2024/25",
-      "French Ligue 1 2024/25"
+      "Deutsche Bundesliga 2024/25"
     ],
-    "main_league": "Italian Serie A 2024/25"
+    "main_league": "French Ligue 1 2024/25"
   },
   {
     "title": "'Great coach' Rodgers' treble chance 'no surprise' - Schmeichel",
@@ -437,8 +437,8 @@
     "date": "2025-05-24T14:38:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Crystal Palace FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
