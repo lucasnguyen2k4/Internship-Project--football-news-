@@ -19,8 +19,8 @@
     "date": "2025-05-05T00:05:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Rangers FC",
-      "Celtic FC"
+      "Celtic FC",
+      "Rangers FC"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"
@@ -162,8 +162,8 @@
     "date": "2025-05-05T02:53:16+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
       "Brentford FC",
+      "Manchester City FC",
       "Manchester United FC"
     ],
     "leagues": [
@@ -187,8 +187,8 @@
     "date": "2025-05-05T03:50:47+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester United FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -232,8 +232,8 @@
     "date": "2025-05-05T06:06:33+07:00",
     "source": "BBC",
     "clubs": [
-      "Rangers FC",
-      "Celtic FC"
+      "Celtic FC",
+      "Rangers FC"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"
@@ -283,15 +283,15 @@
     "date": "2025-05-05T16:10:21+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
       "Liverpool FC",
+      "Real Madrid CF",
       "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "'Time to tell fans the truth' - Alexander-Arnold to leave Liverpool",
@@ -300,14 +300,14 @@
     "date": "2025-05-05T16:15:46+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Trent move highlights relentless appeal of Real Madrid",
@@ -316,14 +316,14 @@
     "date": "2025-05-05T16:50:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Real Madrid CF",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Aberdeen apologise to St Mirren fan after 'unacceptable' chants",
@@ -346,14 +346,14 @@
     "date": "2025-05-05T17:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Real Madrid CF",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Injured Maddison expected to miss rest of season",
@@ -376,8 +376,8 @@
     "date": "2025-05-05T18:40:02+07:00",
     "source": "BBC",
     "clubs": [
-      "Rangers FC",
-      "Celtic FC"
+      "Celtic FC",
+      "Rangers FC"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"
@@ -391,14 +391,14 @@
     "date": "2025-05-05T19:07:38+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Bayern Munich v Leverkusen has been a great rivalry. But is it over? | Andy Brassell",
@@ -408,8 +408,8 @@
     "source": "Guardian",
     "clubs": [
       "FC Bayern München",
-      "FC Barcelona",
       "Borussia Mönchengladbach",
+      "FC Barcelona",
       "Bayer 04 Leverkusen"
     ],
     "leagues": [
@@ -456,8 +456,8 @@
     "date": "2025-05-05T20:53:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "FC Internazionale Milano",
-      "FC Barcelona"
+      "FC Barcelona",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"

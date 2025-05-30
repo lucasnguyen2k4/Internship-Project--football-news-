@@ -62,14 +62,14 @@
     "date": "2025-04-24T02:35:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Everton FC",
-      "Rangers FC"
+      "Rangers FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Scottish Premiership 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Scottish Premiership 2024/25"
   },
   {
     "title": "Villa discuss potential move for Man City midfielder De Bruyne",
@@ -78,8 +78,8 @@
     "date": "2025-04-24T03:02:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Manchester City FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -94,9 +94,9 @@
     "source": "Guardian",
     "clubs": [
       "Liverpool FC",
-      "Aston Villa FC",
       "Arsenal FC",
-      "Crystal Palace FC"
+      "Crystal Palace FC",
+      "Aston Villa FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -305,8 +305,8 @@
     "date": "2025-04-24T13:06:18+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -366,11 +366,11 @@
     "date": "2025-04-24T14:00:02+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
-      "FC Bayern München",
+      "Paris Saint-Germain FC",
       "Manchester United FC",
       "Olympique Lyonnais",
-      "Paris Saint-Germain FC"
+      "FC Bayern München",
+      "Real Madrid CF"
     ],
     "leagues": [
       "French Ligue 1 2024/25"
@@ -384,14 +384,14 @@
     "date": "2025-04-24T14:00:03+07:00",
     "source": "Guardian",
     "clubs": [
-      "Everton FC",
-      "FC Bayern München"
+      "FC Bayern München",
+      "Everton FC"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Deutsche Bundesliga 2024/25"
   },
   {
     "title": "Reverse Wrexham: Carlisle's US dream goes sour",
@@ -418,8 +418,8 @@
     "date": "2025-04-24T15:00:20+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
       "Aston Villa FC",
+      "Manchester City FC",
       "Arsenal FC",
       "Crystal Palace FC"
     ],
@@ -444,16 +444,16 @@
     "date": "2025-04-24T15:32:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Real Madrid CF",
+      "AFC Bournemouth",
       "FC Bayern München",
-      "AFC Bournemouth"
+      "Real Madrid CF"
     ],
     "leagues": [
-      "English Premier League 2024/25",
       "Deutsche Bundesliga 2024/25",
+      "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Eddie Howe back at Newcastle after hospital stay with pneumonia",
@@ -531,14 +531,14 @@
     "date": "2025-04-24T18:00:03+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Vardy to leave Leicester at end of the season",
@@ -571,10 +571,10 @@
     "source": "Guardian",
     "clubs": [
       "Liverpool FC",
-      "Arsenal FC",
-      "Crystal Palace FC",
       "Manchester City FC",
-      "Aston Villa FC"
+      "Arsenal FC",
+      "Aston Villa FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -641,8 +641,8 @@
     "date": "2025-04-24T21:06:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Manchester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -699,8 +699,8 @@
     "date": "2025-04-24T22:37:25+07:00",
     "source": "BBC",
     "clubs": [
-      "Dundee United",
-      "Celtic FC"
+      "Celtic FC",
+      "Dundee United"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"

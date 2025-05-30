@@ -237,14 +237,14 @@
     "date": "2025-05-25T04:41:35+07:00",
     "source": "BBC",
     "clubs": [
-      "Newcastle United FC",
-      "FC Bayern München",
       "Liverpool FC",
-      "SSC Napoli"
+      "FC Bayern München",
+      "SSC Napoli",
+      "Newcastle United FC"
     ],
     "leagues": [
-      "Italian Serie A 2024/25",
       "Deutsche Bundesliga 2024/25",
+      "Italian Serie A 2024/25",
       "English Premier League 2024/25"
     ],
     "main_league": "English Premier League 2024/25"
@@ -395,14 +395,14 @@
     "date": "2025-05-25T14:28:04+07:00",
     "source": "BBC",
     "clubs": [
-      "Everton FC",
-      "Rangers FC"
+      "Rangers FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Scottish Premiership 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Scottish Premiership 2024/25"
   },
   {
     "title": "The secrets behind Arsenal's rise to Queens of Europe",
@@ -439,8 +439,8 @@
     "date": "2025-05-25T17:18:21+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
       "Real Sociedad de Fútbol",
+      "Real Madrid CF",
       "Bayer 04 Leverkusen"
     ],
     "leagues": [
@@ -485,8 +485,8 @@
     "date": "2025-05-25T20:49:28+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
-      "Fulham FC"
+      "Fulham FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

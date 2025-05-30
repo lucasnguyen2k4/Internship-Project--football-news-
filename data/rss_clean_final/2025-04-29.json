@@ -17,8 +17,8 @@
     "date": "2025-04-29T03:23:33+07:00",
     "source": "BBC",
     "clubs": [
-      "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Paris Saint-Germain FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -46,9 +46,9 @@
     "date": "2025-04-29T04:41:02+07:00",
     "source": "BBC",
     "clubs": [
-      "Everton FC",
+      "Chelsea FC",
       "Arsenal FC",
-      "Chelsea FC"
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -86,10 +86,10 @@
     "date": "2025-04-29T12:09:57+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
-      "Manchester City FC",
       "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Real Madrid CF",
+      "Manchester City FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -102,14 +102,14 @@
     "date": "2025-04-29T14:00:00+07:00",
     "source": "BBC",
     "clubs": [
-      "Leeds United FC",
-      "Rangers FC"
+      "Rangers FC",
+      "Leeds United FC"
     ],
     "leagues": [
-      "English Championship 2024/25",
-      "Scottish Premiership 2024/25"
+      "Scottish Premiership 2024/25",
+      "English Championship 2024/25"
     ],
-    "main_league": "English Championship 2024/25"
+    "main_league": "Scottish Premiership 2024/25"
   },
   {
     "title": "From Merseyside to Australia: Liverpool fans revel in title success",
@@ -180,8 +180,8 @@
     "date": "2025-04-29T16:30:37+07:00",
     "source": "Guardian",
     "clubs": [
-      "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Paris Saint-Germain FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -264,12 +264,12 @@
     "source": "Guardian",
     "clubs": [
       "Liverpool FC",
+      "FC Barcelona",
+      "Paris Saint-Germain FC",
+      "FC Internazionale Milano",
       "Arsenal FC",
       "Crystal Palace FC",
-      "FC Internazionale Milano",
-      "FC Barcelona",
-      "Brentford FC",
-      "Paris Saint-Germain FC"
+      "Brentford FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -327,8 +327,8 @@
     "date": "2025-04-29T22:39:00+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

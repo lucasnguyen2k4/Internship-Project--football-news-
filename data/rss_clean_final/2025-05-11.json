@@ -58,17 +58,17 @@
     "date": "2025-05-11T02:00:02+07:00",
     "source": "Guardian",
     "clubs": [
-      "Tottenham Hotspur FC",
       "FC Internazionale Milano",
       "Juventus FC",
-      "Chelsea FC",
-      "SSC Napoli"
+      "SSC Napoli",
+      "Tottenham Hotspur FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "Italian Serie A 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Italian Serie A 2024/25"
   },
   {
     "title": "Ten-player Villa hold on for crucial win in race for CL",
@@ -130,15 +130,15 @@
     "date": "2025-05-11T04:30:04+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
       "Liverpool FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "'Very violent' Mings elbow fractured Scott jaw - Iraola",
@@ -162,16 +162,16 @@
     "date": "2025-05-11T05:18:21+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
       "Real Sociedad de Fútbol",
+      "Arsenal FC",
       "Bayer 04 Leverkusen"
     ],
     "leagues": [
-      "English Premier League 2024/25",
       "Deutsche Bundesliga 2024/25",
+      "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Spurs are on their way to Bilbao – but no plans to record a new cup final song",
@@ -209,14 +209,14 @@
     "date": "2025-05-11T12:13:50+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "SSC Napoli"
+      "SSC Napoli",
+      "Manchester United FC"
     ],
     "leagues": [
       "Italian Serie A 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Italian Serie A 2024/25"
   },
   {
     "title": "‘I’m not a hard man’: Duncan Ferguson on Everton, pigeons and his biggest regrets",
@@ -333,8 +333,8 @@
     "date": "2025-05-11T20:49:13+07:00",
     "source": "BBC",
     "clubs": [
-      "Newcastle United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Newcastle United FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -347,8 +347,8 @@
     "date": "2025-05-11T20:57:27+07:00",
     "source": "Guardian",
     "clubs": [
-      "Newcastle United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Newcastle United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -362,8 +362,8 @@
     "date": "2025-05-11T21:11:15+07:00",
     "source": "BBC",
     "clubs": [
-      "Newcastle United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Newcastle United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -415,14 +415,14 @@
     "date": "2025-05-11T22:14:50+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester United FC",
       "Liverpool FC",
-      "Tottenham Hotspur FC",
-      "Arsenal FC",
-      "Crystal Palace FC",
       "Leicester City FC",
       "Nottingham Forest FC",
-      "West Ham United FC"
+      "Arsenal FC",
+      "Manchester United FC",
+      "West Ham United FC",
+      "Tottenham Hotspur FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -436,8 +436,8 @@
     "date": "2025-05-11T22:19:56+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
-      "FC Barcelona"
+      "FC Barcelona",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -465,8 +465,8 @@
     "date": "2025-05-11T22:54:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Newcastle United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Newcastle United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -523,8 +523,8 @@
     "date": "2025-05-11T23:25:42+07:00",
     "source": "BBC",
     "clubs": [
-      "Newcastle United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Newcastle United FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"

@@ -17,9 +17,9 @@
     "date": "2025-04-18T01:05:00+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
+      "FC Internazionale Milano",
       "FC Bayern München",
-      "FC Internazionale Milano"
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -73,8 +73,8 @@
     "date": "2025-04-18T06:49:54+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Olympique Lyonnais"
+      "Olympique Lyonnais",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -114,8 +114,8 @@
     "date": "2025-04-18T07:03:30+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Olympique Lyonnais"
+      "Olympique Lyonnais",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -128,14 +128,14 @@
     "date": "2025-04-18T12:20:32+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Rodri's Ballon d'Or recognised our position - Makelele",
@@ -144,14 +144,14 @@
     "date": "2025-04-18T12:28:45+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Surprise as 100 Spaniards turn up at non-league game",
@@ -169,9 +169,9 @@
     "date": "2025-04-18T13:23:02+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
       "Aston Villa FC",
-      "Sunderland AFC"
+      "Sunderland AFC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
@@ -221,8 +221,8 @@
     "date": "2025-04-18T14:57:11+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Olympique Lyonnais"
+      "Olympique Lyonnais",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -273,8 +273,8 @@
     "date": "2025-04-18T16:45:02+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Olympique Lyonnais"
+      "Olympique Lyonnais",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -332,11 +332,11 @@
     "date": "2025-04-18T19:30:09+07:00",
     "source": "Guardian",
     "clubs": [
+      "Wolverhampton Wanderers FC",
       "Manchester United FC",
       "Athletic Club",
       "AFC Bournemouth",
-      "Brentford FC",
-      "Wolverhampton Wanderers FC"
+      "Brentford FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -350,8 +350,8 @@
     "date": "2025-04-18T19:38:28+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Olympique Lyonnais"
+      "Olympique Lyonnais",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -378,9 +378,9 @@
     "date": "2025-04-18T19:58:32+07:00",
     "source": "BBC",
     "clubs": [
+      "Chelsea FC",
       "Manchester United FC",
-      "Tottenham Hotspur FC",
-      "Chelsea FC"
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -408,8 +408,8 @@
     "date": "2025-04-18T23:00:14+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester United FC",
-      "Olympique Lyonnais"
+      "Olympique Lyonnais",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"

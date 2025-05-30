@@ -29,12 +29,12 @@
     "date": "2025-05-02T03:48:20+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
       "Leicester City FC",
-      "Brentford FC",
-      "Chelsea FC",
       "Nottingham Forest FC",
-      "West Ham United FC"
+      "West Ham United FC",
+      "Crystal Palace FC",
+      "Brentford FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -129,8 +129,8 @@
     "date": "2025-05-02T05:35:00+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Athletic Club"
+      "Athletic Club",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -170,8 +170,8 @@
     "date": "2025-05-02T05:37:43+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Athletic Club"
+      "Athletic Club",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -184,20 +184,20 @@
     "date": "2025-05-02T06:00:51+07:00",
     "source": "Guardian",
     "clubs": [
-      "Southampton FC",
-      "Manchester United FC",
-      "Arsenal FC",
       "Leicester City FC",
-      "AFC Bournemouth",
       "Fulham FC",
-      "Brentford FC",
       "Manchester City FC",
-      "Aston Villa FC",
-      "Chelsea FC",
+      "Wolverhampton Wanderers FC",
       "Everton FC",
       "Nottingham Forest FC",
-      "Wolverhampton Wanderers FC",
-      "Ipswich Town FC"
+      "Arsenal FC",
+      "Manchester United FC",
+      "Southampton FC",
+      "Aston Villa FC",
+      "Ipswich Town FC",
+      "AFC Bournemouth",
+      "Brentford FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -359,8 +359,8 @@
     "date": "2025-05-02T15:13:30+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Athletic Club"
+      "Athletic Club",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -427,8 +427,8 @@
     "date": "2025-05-02T17:31:50+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester United FC",
-      "Athletic Club"
+      "Athletic Club",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"

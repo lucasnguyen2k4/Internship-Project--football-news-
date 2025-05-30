@@ -6,8 +6,8 @@
     "date": "2025-05-07T01:30:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Paris Saint-Germain FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -20,9 +20,9 @@
     "date": "2025-05-07T01:47:54+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
       "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -35,8 +35,8 @@
     "date": "2025-05-07T02:04:16+07:00",
     "source": "BBC",
     "clubs": [
-      "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Paris Saint-Germain FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -49,8 +49,8 @@
     "date": "2025-05-07T02:30:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Paris Saint-Germain FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -77,8 +77,8 @@
     "date": "2025-05-07T04:52:46+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Internazionale Milano",
-      "FC Barcelona"
+      "FC Barcelona",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -91,8 +91,8 @@
     "date": "2025-05-07T05:05:48+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Internazionale Milano",
-      "FC Barcelona"
+      "FC Barcelona",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -121,8 +121,8 @@
     "date": "2025-05-07T06:22:33+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Internazionale Milano",
-      "FC Barcelona"
+      "FC Barcelona",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -135,11 +135,11 @@
     "date": "2025-05-07T06:29:26+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Bayern München",
-      "Arsenal FC",
-      "FC Internazionale Milano",
       "FC Barcelona",
-      "Paris Saint-Germain FC"
+      "Paris Saint-Germain FC",
+      "FC Internazionale Milano",
+      "Arsenal FC",
+      "FC Bayern München"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -170,8 +170,8 @@
     "date": "2025-05-07T12:25:50+07:00",
     "source": "BBC",
     "clubs": [
-      "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Paris Saint-Germain FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -184,8 +184,8 @@
     "date": "2025-05-07T13:29:16+07:00",
     "source": "BBC",
     "clubs": [
-      "Rangers FC",
-      "Celtic FC"
+      "Celtic FC",
+      "Rangers FC"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"
@@ -199,10 +199,10 @@
     "date": "2025-05-07T13:51:03+07:00",
     "source": "Guardian",
     "clubs": [
+      "Arsenal FC",
       "Paris Saint-Germain FC",
-      "Manchester United FC",
       "Tottenham Hotspur FC",
-      "Arsenal FC"
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -325,8 +325,8 @@
     "date": "2025-05-07T17:32:05+07:00",
     "source": "BBC",
     "clubs": [
-      "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Paris Saint-Germain FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -353,8 +353,8 @@
     "date": "2025-05-07T18:34:25+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Internazionale Milano",
-      "FC Barcelona"
+      "FC Barcelona",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -376,10 +376,10 @@
     "date": "2025-05-07T18:45:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Everton FC",
+      "AFC Bournemouth",
       "Manchester United FC",
       "West Ham United FC",
-      "AFC Bournemouth"
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -528,8 +528,8 @@
     "date": "2025-05-07T21:15:33+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Internazionale Milano",
-      "FC Barcelona"
+      "FC Barcelona",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -584,8 +584,8 @@
     "date": "2025-05-07T23:14:00+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Internazionale Milano",
-      "FC Barcelona"
+      "FC Barcelona",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"

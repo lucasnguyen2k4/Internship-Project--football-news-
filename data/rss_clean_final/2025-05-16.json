@@ -17,8 +17,8 @@
     "date": "2025-05-16T04:30:43+07:00",
     "source": "BBC",
     "clubs": [
-      "RCD Espanyol de Barcelona",
-      "FC Barcelona"
+      "FC Barcelona",
+      "RCD Espanyol de Barcelona"
     ],
     "leagues": [
       "Spain Primera División 2024/25"
@@ -45,8 +45,8 @@
     "date": "2025-05-16T04:43:12+07:00",
     "source": "BBC",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -60,8 +60,8 @@
     "date": "2025-05-16T04:56:46+07:00",
     "source": "BBC",
     "clubs": [
-      "Newcastle United FC",
-      "Fulham FC"
+      "Fulham FC",
+      "Newcastle United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -98,17 +98,17 @@
     "date": "2025-05-16T06:01:39+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester United FC",
-      "Tottenham Hotspur FC",
-      "Arsenal FC",
-      "Crystal Palace FC",
-      "Newcastle United FC",
-      "AFC Bournemouth",
       "Manchester City FC",
-      "Aston Villa FC",
-      "Chelsea FC",
+      "Newcastle United FC",
       "Nottingham Forest FC",
-      "West Ham United FC"
+      "Arsenal FC",
+      "Manchester United FC",
+      "West Ham United FC",
+      "Aston Villa FC",
+      "Tottenham Hotspur FC",
+      "Crystal Palace FC",
+      "AFC Bournemouth",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -196,8 +196,8 @@
     "date": "2025-05-16T13:31:01+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -244,8 +244,8 @@
     "date": "2025-05-16T15:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Manchester United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -311,8 +311,8 @@
     "source": "Guardian",
     "clubs": [
       "Aberdeen FC",
-      "Rangers FC",
-      "Celtic FC"
+      "Celtic FC",
+      "Rangers FC"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"
@@ -430,8 +430,8 @@
     "date": "2025-05-16T22:11:48+07:00",
     "source": "BBC",
     "clubs": [
-      "Everton FC",
-      "Southampton FC"
+      "Southampton FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -473,9 +473,9 @@
     "date": "2025-05-16T22:28:32+07:00",
     "source": "Guardian",
     "clubs": [
+      "FC Barcelona",
       "Real Madrid CF",
-      "RCD Espanyol de Barcelona",
-      "FC Barcelona"
+      "RCD Espanyol de Barcelona"
     ],
     "leagues": [
       "Spain Primera División 2024/25"

@@ -80,16 +80,16 @@
     "date": "2025-05-13T03:57:15+07:00",
     "source": "BBC",
     "clubs": [
+      "Liverpool FC",
       "AC Milan",
       "Manchester City FC",
-      "Manchester United FC",
-      "Liverpool FC"
+      "Manchester United FC"
     ],
     "leagues": [
       "Italian Serie A 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Italian Serie A 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "O’Hare lands last blow on Bristol City as Sheffield United barrel into playoff final",
@@ -172,14 +172,14 @@
     "date": "2025-05-13T05:16:47+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
-      "Rangers FC"
+      "Rangers FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "Spain Primera División 2024/25",
       "Scottish Premiership 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "Scottish Premiership 2024/25"
   },
   {
     "title": "Papers: Real Madrid target summer move for Spurs defender Romero",
@@ -483,13 +483,13 @@
     "date": "2025-05-13T22:32:10+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester United FC",
       "Liverpool FC",
-      "Arsenal FC",
       "Manchester City FC",
+      "Arsenal FC",
+      "Manchester United FC",
       "Brighton & Hove Albion FC",
-      "Chelsea FC",
-      "Coventry City FC"
+      "Coventry City FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
@@ -548,20 +548,20 @@
     "date": "2025-05-13T23:07:37+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
       "Liverpool FC",
-      "FC Bayern München",
-      "Arsenal FC",
       "Newcastle United FC",
+      "Arsenal FC",
+      "FC Bayern München",
       "AFC Bournemouth",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Real Madrid CF"
     ],
     "leagues": [
-      "English Premier League 2024/25",
       "Deutsche Bundesliga 2024/25",
+      "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Court denies Uruguay players’ appeal, upholds bans after Copa América brawl",
@@ -570,15 +570,15 @@
     "date": "2025-05-13T23:07:38+07:00",
     "source": "Guardian",
     "clubs": [
-      "Club Atlético de Madrid",
       "Liverpool FC",
+      "Club Atlético de Madrid",
       "FC Barcelona"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Man Utd in pole position to sign Delap",
@@ -587,8 +587,8 @@
     "date": "2025-05-13T23:33:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Manchester United FC",
-      "Ipswich Town FC"
+      "Ipswich Town FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

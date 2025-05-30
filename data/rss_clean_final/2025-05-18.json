@@ -170,19 +170,19 @@
     "date": "2025-05-18T03:27:35+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Arsenal FC",
       "AC Milan",
       "FC Barcelona",
       "Manchester City FC",
+      "Arsenal FC",
+      "Manchester United FC",
       "SSC Napoli"
     ],
     "leagues": [
-      "Italian Serie A 2024/25",
       "English Premier League 2024/25",
+      "Italian Serie A 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Italian Serie A 2024/25"
   },
   {
     "title": "Palace deserved to win - Shearer",
@@ -291,13 +291,13 @@
     "date": "2025-05-18T04:46:35+07:00",
     "source": "Guardian",
     "clubs": [
-      "Eintracht Frankfurt",
       "Holstein Kiel",
+      "Eintracht Frankfurt",
       "Borussia Dortmund"
     ],
     "leagues": [
-      "UEFA Champions League 2024/25",
-      "UEFA Europa League 2024/25"
+      "UEFA Europa League 2024/25",
+      "UEFA Champions League 2024/25"
     ]
   },
   {
@@ -518,8 +518,8 @@
     "date": "2025-05-18T20:30:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Leicester City FC",
-      "Ipswich Town FC"
+      "Ipswich Town FC",
+      "Leicester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -533,8 +533,8 @@
     "date": "2025-05-18T20:35:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Fulham FC",
-      "Brentford FC"
+      "Brentford FC",
+      "Fulham FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -548,8 +548,8 @@
     "date": "2025-05-18T20:44:46+07:00",
     "source": "BBC",
     "clubs": [
-      "Everton FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -572,8 +572,8 @@
     "date": "2025-05-18T20:59:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Everton FC",
-      "Southampton FC"
+      "Southampton FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -587,8 +587,8 @@
     "date": "2025-05-18T21:05:35+07:00",
     "source": "BBC",
     "clubs": [
-      "Everton FC",
-      "Southampton FC"
+      "Southampton FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -611,8 +611,8 @@
     "date": "2025-05-18T21:11:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Everton FC",
-      "Southampton FC"
+      "Southampton FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -626,8 +626,8 @@
     "date": "2025-05-18T21:52:28+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -641,8 +641,8 @@
     "date": "2025-05-18T22:01:46+07:00",
     "source": "Guardian",
     "clubs": [
-      "Everton FC",
-      "Southampton FC"
+      "Southampton FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -679,8 +679,8 @@
     "date": "2025-05-18T23:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Everton FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -705,11 +705,11 @@
     "date": "2025-05-18T23:04:55+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
-      "Aston Villa FC",
-      "Chelsea FC",
       "Nottingham Forest FC",
-      "West Ham United FC"
+      "West Ham United FC",
+      "Aston Villa FC",
+      "Crystal Palace FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -760,8 +760,8 @@
     "date": "2025-05-18T23:32:34+07:00",
     "source": "Guardian",
     "clubs": [
-      "Leicester City FC",
-      "Ipswich Town FC"
+      "Ipswich Town FC",
+      "Leicester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -827,10 +827,10 @@
     "date": "2025-05-18T23:51:31+07:00",
     "source": "Guardian",
     "clubs": [
-      "Newcastle United FC",
       "Nottingham Forest FC",
       "West Ham United FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Newcastle United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -844,8 +844,8 @@
     "date": "2025-05-18T23:55:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Leicester City FC",
-      "Ipswich Town FC"
+      "Ipswich Town FC",
+      "Leicester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

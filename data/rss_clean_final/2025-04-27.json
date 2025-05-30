@@ -115,8 +115,8 @@
     "date": "2025-04-27T02:00:11+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Internazionale Milano",
-      "FC Barcelona"
+      "FC Barcelona",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -180,11 +180,11 @@
     "date": "2025-04-27T02:51:31+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester United FC",
-      "Crystal Palace FC",
       "Manchester City FC",
+      "Nottingham Forest FC",
+      "Manchester United FC",
       "Aston Villa FC",
-      "Nottingham Forest FC"
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -270,8 +270,8 @@
     "date": "2025-04-27T06:02:49+07:00",
     "source": "BBC",
     "clubs": [
-      "Everton FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -300,8 +300,8 @@
     "date": "2025-04-27T06:34:06+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
-      "FC Barcelona"
+      "FC Barcelona",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -328,10 +328,10 @@
     "date": "2025-04-27T14:00:25+07:00",
     "source": "Guardian",
     "clubs": [
-      "Newcastle United FC",
+      "Brighton & Hove Albion FC",
       "Nottingham Forest FC",
       "Manchester City FC",
-      "Brighton & Hove Albion FC"
+      "Newcastle United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -388,8 +388,8 @@
     "date": "2025-04-27T15:08:55+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
-      "FC Barcelona"
+      "FC Barcelona",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -462,15 +462,15 @@
     "date": "2025-04-27T22:26:27+07:00",
     "source": "Guardian",
     "clubs": [
+      "AFC Bournemouth",
       "Real Madrid CF",
-      "Manchester United FC",
-      "AFC Bournemouth"
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Liverpool v Tottenham: Premier League – live",
@@ -480,10 +480,10 @@
     "source": "Guardian",
     "clubs": [
       "Liverpool FC",
-      "Tottenham Hotspur FC",
-      "Arsenal FC",
       "Manchester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Arsenal FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

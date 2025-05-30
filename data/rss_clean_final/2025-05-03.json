@@ -6,8 +6,8 @@
     "date": "2025-05-03T00:46:52+07:00",
     "source": "BBC",
     "clubs": [
-      "Rangers FC",
-      "Celtic FC"
+      "Celtic FC",
+      "Rangers FC"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"
@@ -193,10 +193,10 @@
     "date": "2025-05-03T14:00:32+07:00",
     "source": "Guardian",
     "clubs": [
-      "Southampton FC",
-      "Leeds United FC",
       "Ipswich Town FC",
-      "Burnley FC"
+      "Burnley FC",
+      "Southampton FC",
+      "Leeds United FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
@@ -329,8 +329,8 @@
     "date": "2025-05-03T20:18:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Millwall FC",
-      "Burnley FC"
+      "Burnley FC",
+      "Millwall FC"
     ],
     "leagues": [
       "English Championship 2024/25"
@@ -344,11 +344,11 @@
     "date": "2025-05-03T20:36:20+07:00",
     "source": "Guardian",
     "clubs": [
-      "Leeds United FC",
-      "Burnley FC",
       "Bristol City FC",
+      "Coventry City FC",
       "Millwall FC",
-      "Coventry City FC"
+      "Burnley FC",
+      "Leeds United FC"
     ],
     "leagues": [
       "English Championship 2024/25"
@@ -362,8 +362,8 @@
     "date": "2025-05-03T20:40:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Fulham FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Fulham FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -414,8 +414,8 @@
     "date": "2025-05-03T21:30:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Fulham FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Fulham FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -428,8 +428,8 @@
     "date": "2025-05-03T21:45:46+07:00",
     "source": "BBC",
     "clubs": [
-      "Fulham FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Fulham FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -443,8 +443,8 @@
     "date": "2025-05-03T21:45:49+07:00",
     "source": "BBC",
     "clubs": [
-      "Fulham FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Fulham FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -498,8 +498,8 @@
     "date": "2025-05-03T23:16:38+07:00",
     "source": "Guardian",
     "clubs": [
-      "Southampton FC",
-      "Leicester City FC"
+      "Leicester City FC",
+      "Southampton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -513,8 +513,8 @@
     "date": "2025-05-03T23:19:33+07:00",
     "source": "Guardian",
     "clubs": [
-      "Everton FC",
-      "Ipswich Town FC"
+      "Ipswich Town FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -546,8 +546,8 @@
     "date": "2025-05-03T23:55:41+07:00",
     "source": "BBC",
     "clubs": [
-      "Southampton FC",
-      "Leicester City FC"
+      "Leicester City FC",
+      "Southampton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

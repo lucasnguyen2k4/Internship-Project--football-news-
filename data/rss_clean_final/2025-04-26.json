@@ -20,8 +20,8 @@
     "date": "2025-04-26T00:03:51+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
-      "FC Barcelona"
+      "FC Barcelona",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -34,9 +34,9 @@
     "date": "2025-04-26T00:27:03+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester City FC",
-      "Nottingham Forest FC",
       "Liverpool FC",
+      "Nottingham Forest FC",
+      "Manchester City FC",
       "Aston Villa FC"
     ],
     "leagues": [
@@ -107,8 +107,8 @@
     "date": "2025-04-26T04:26:33+07:00",
     "source": "Guardian",
     "clubs": [
-      "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Paris Saint-Germain FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -150,17 +150,17 @@
     "date": "2025-04-26T05:00:50+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Arsenal FC",
       "FC Barcelona",
       "Manchester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Arsenal FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "'There's NO chance that's a red!' - Wilkins FUMES over Rhinos-Hull KR red cards",
@@ -319,8 +319,8 @@
     "date": "2025-04-26T21:15:01+07:00",
     "source": "BBC",
     "clubs": [
-      "Rangers FC",
-      "Celtic FC"
+      "Celtic FC",
+      "Rangers FC"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"
@@ -334,8 +334,8 @@
     "date": "2025-04-26T21:15:18+07:00",
     "source": "BBC",
     "clubs": [
-      "Everton FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -349,8 +349,8 @@
     "date": "2025-04-26T21:15:39+07:00",
     "source": "BBC",
     "clubs": [
-      "Everton FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -388,8 +388,8 @@
     "date": "2025-04-26T22:09:58+07:00",
     "source": "BBC",
     "clubs": [
-      "Dundee United",
-      "Celtic FC"
+      "Celtic FC",
+      "Dundee United"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"
@@ -426,12 +426,12 @@
     "date": "2025-04-26T23:29:38+07:00",
     "source": "Guardian",
     "clubs": [
-      "Southampton FC",
       "Leicester City FC",
-      "Ipswich Town FC",
+      "Southampton FC",
+      "West Ham United FC",
       "Brighton & Hove Albion FC",
-      "Chelsea FC",
-      "West Ham United FC"
+      "Ipswich Town FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -461,8 +461,8 @@
     "date": "2025-04-26T23:39:37+07:00",
     "source": "BBC",
     "clubs": [
-      "Newcastle United FC",
-      "Ipswich Town FC"
+      "Ipswich Town FC",
+      "Newcastle United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

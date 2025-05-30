@@ -15,8 +15,8 @@
     "date": "2025-04-17T04:21:03+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -29,10 +29,10 @@
     "date": "2025-04-17T05:03:37+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Internazionale Milano",
+      "Arsenal FC",
       "Paris Saint-Germain FC",
       "FC Barcelona",
-      "Arsenal FC"
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -85,8 +85,8 @@
     "date": "2025-04-17T06:37:43+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -113,8 +113,8 @@
     "date": "2025-04-17T18:07:57+07:00",
     "source": "Guardian",
     "clubs": [
-      "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Paris Saint-Germain FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -142,8 +142,8 @@
     "date": "2025-04-17T20:53:37+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -156,8 +156,8 @@
     "date": "2025-04-17T21:20:24+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -170,12 +170,12 @@
     "date": "2025-04-17T21:44:53+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
-      "FC Bayern München",
-      "Arsenal FC",
       "FC Internazionale Milano",
       "Paris Saint-Germain FC",
-      "Aston Villa FC"
+      "Arsenal FC",
+      "Aston Villa FC",
+      "FC Bayern München",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"

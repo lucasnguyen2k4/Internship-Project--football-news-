@@ -6,8 +6,8 @@
     "date": "2025-05-17T00:25:53+07:00",
     "source": "Guardian",
     "clubs": [
-      "Everton FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -53,8 +53,8 @@
     "date": "2025-05-17T01:48:47+07:00",
     "source": "BBC",
     "clubs": [
-      "Everton FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -77,15 +77,15 @@
     "date": "2025-05-17T03:02:45+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
       "Liverpool FC",
+      "Real Madrid CF",
       "Wolverhampton Wanderers FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Aston Villa ease past Tottenham in top-five boost but Martínez’s future unclear",
@@ -94,10 +94,10 @@
     "date": "2025-05-17T03:40:20+07:00",
     "source": "Guardian",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Manchester United FC",
       "Aston Villa FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Manchester United FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -111,8 +111,8 @@
     "date": "2025-05-17T04:16:42+07:00",
     "source": "BBC",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -135,8 +135,8 @@
     "date": "2025-05-17T04:20:02+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -150,8 +150,8 @@
     "date": "2025-05-17T04:25:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -164,8 +164,8 @@
     "date": "2025-05-17T04:32:44+07:00",
     "source": "BBC",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -193,9 +193,9 @@
     "date": "2025-05-17T05:09:51+07:00",
     "source": "BBC",
     "clubs": [
+      "Chelsea FC",
       "Manchester United FC",
-      "Tottenham Hotspur FC",
-      "Chelsea FC"
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -209,8 +209,8 @@
     "date": "2025-05-17T05:20:22+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -223,8 +223,8 @@
     "date": "2025-05-17T05:42:02+07:00",
     "source": "BBC",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -280,8 +280,8 @@
     "date": "2025-05-17T06:30:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Manchester United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -325,8 +325,8 @@
     "date": "2025-05-17T14:03:42+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -354,14 +354,14 @@
     "date": "2025-05-17T15:52:46+07:00",
     "source": "BBC",
     "clubs": [
-      "Rangers FC",
-      "Ipswich Town FC"
+      "Ipswich Town FC",
+      "Rangers FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Scottish Premiership 2024/25"
     ],
-    "main_league": "Scottish Premiership 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Football Daily",
@@ -388,23 +388,23 @@
     "date": "2025-05-17T17:41:57+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
       "Liverpool FC",
-      "FC Bayern München",
-      "Arsenal FC",
-      "AS Roma",
-      "Juventus FC",
       "Newcastle United FC",
+      "AS Roma",
+      "Arsenal FC",
+      "Juventus FC",
+      "FC Bayern München",
       "AFC Bournemouth",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Real Madrid CF"
     ],
     "leagues": [
-      "Italian Serie A 2024/25",
-      "English Premier League 2024/25",
       "Deutsche Bundesliga 2024/25",
+      "English Premier League 2024/25",
+      "Italian Serie A 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Huijsen completes £50m move to Real Madrid",
@@ -413,14 +413,14 @@
     "date": "2025-05-17T18:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Real Madrid CF",
-      "AFC Bournemouth"
+      "AFC Bournemouth",
+      "Real Madrid CF"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Newcastle’s elite rise unignorable but Arsenal links to Isak and Gordon irk Howe",
@@ -429,8 +429,8 @@
     "date": "2025-05-17T18:00:06+07:00",
     "source": "Guardian",
     "clubs": [
-      "Newcastle United FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Newcastle United FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -443,14 +443,14 @@
     "date": "2025-05-17T18:02:22+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
-      "AFC Bournemouth"
+      "AFC Bournemouth",
+      "Real Madrid CF"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "'I don't think it's right' - Richards unhappy with FA Cup disrespect",
@@ -539,8 +539,8 @@
     "date": "2025-05-17T21:54:39+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester City FC",
       "Aston Villa FC",
+      "Manchester City FC",
       "Crystal Palace FC"
     ],
     "leagues": [

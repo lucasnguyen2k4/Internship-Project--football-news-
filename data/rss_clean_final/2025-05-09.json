@@ -62,8 +62,8 @@
     "date": "2025-05-09T04:01:29+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester United FC",
-      "Athletic Club"
+      "Athletic Club",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -76,12 +76,12 @@
     "date": "2025-05-09T04:01:55+07:00",
     "source": "Guardian",
     "clubs": [
-      "Arsenal FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Arsenal FC"
     ],
     "leagues": [
-      "UEFA Europa League 2024/25",
-      "UEFA Europa Conference League 2024/25"
+      "UEFA Europa Conference League 2024/25",
+      "UEFA Europa League 2024/25"
     ]
   },
   {
@@ -147,10 +147,10 @@
     "date": "2025-05-09T04:30:40+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
-      "FC Bayern München",
       "FC Internazionale Milano",
-      "Arsenal FC"
+      "FC Bayern München",
+      "Arsenal FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -188,8 +188,8 @@
     "date": "2025-05-09T04:45:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Real Betis Balompié",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Real Betis Balompié"
     ],
     "leagues": [
       "UEFA Europa Conference League 2024/25"
@@ -216,8 +216,8 @@
     "date": "2025-05-09T05:07:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Manchester United FC",
-      "Athletic Club"
+      "Athletic Club",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -270,8 +270,8 @@
     "date": "2025-05-09T05:58:29+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Betis Balompié",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Real Betis Balompié"
     ],
     "leagues": [
       "UEFA Europa Conference League 2024/25"
@@ -407,8 +407,8 @@
     "date": "2025-05-09T15:03:30+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
-      "FC Barcelona"
+      "FC Barcelona",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -421,9 +421,9 @@
     "date": "2025-05-09T15:33:01+07:00",
     "source": "Guardian",
     "clubs": [
+      "Athletic Club",
       "Manchester United FC",
-      "Tottenham Hotspur FC",
-      "Athletic Club"
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -624,9 +624,9 @@
     "date": "2025-05-09T19:30:04+07:00",
     "source": "Guardian",
     "clubs": [
+      "Athletic Club",
       "Manchester United FC",
-      "Tottenham Hotspur FC",
-      "Athletic Club"
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -639,8 +639,8 @@
     "date": "2025-05-09T20:29:08+07:00",
     "source": "BBC",
     "clubs": [
-      "Rangers FC",
-      "Celtic FC"
+      "Celtic FC",
+      "Rangers FC"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"
@@ -697,14 +697,14 @@
     "date": "2025-05-09T21:07:45+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
-      "FC Bayern München"
+      "FC Bayern München",
+      "Manchester City FC"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Deutsche Bundesliga 2024/25"
   },
   {
     "title": "Kartal dumped out of Rome in straight sets by Noskova",
@@ -722,8 +722,8 @@
     "date": "2025-05-09T22:05:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Newcastle United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Newcastle United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -825,8 +825,8 @@
     "date": "2025-05-09T23:10:15+07:00",
     "source": "Guardian",
     "clubs": [
-      "Everton FC",
-      "Crystal Palace FC"
+      "Crystal Palace FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

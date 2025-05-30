@@ -52,15 +52,15 @@
     "date": "2025-05-30T05:37:59+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Bayern München",
       "Liverpool FC",
+      "FC Bayern München",
       "Bayer 04 Leverkusen"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "'Thousands of girls want to be goalkeepers because of Earps'",
@@ -186,9 +186,9 @@
     "date": "2025-05-30T16:44:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Everton FC",
       "Manchester City FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -217,8 +217,8 @@
     "date": "2025-05-30T17:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Paris Saint-Germain FC",
-      "FC Barcelona"
+      "FC Barcelona",
+      "Paris Saint-Germain FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -245,14 +245,14 @@
     "date": "2025-05-30T17:08:05+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "How Chelsea moved to brink of signing £30m Delap",
@@ -303,8 +303,8 @@
     "date": "2025-05-30T19:29:45+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -376,8 +376,8 @@
     "date": "2025-05-30T20:34:49+07:00",
     "source": "BBC",
     "clubs": [
-      "West Ham United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "West Ham United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -445,15 +445,15 @@
     "date": "2025-05-30T22:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "FC Bayern München",
       "Liverpool FC",
+      "FC Bayern München",
       "Bayer 04 Leverkusen"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Spurs transfer Q&A: Ange and Romero futures plus plans for summer",

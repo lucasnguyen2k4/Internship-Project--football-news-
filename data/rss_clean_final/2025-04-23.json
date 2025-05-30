@@ -26,8 +26,8 @@
     "date": "2025-04-23T03:25:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Manchester City FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -41,8 +41,8 @@
     "date": "2025-04-23T03:40:45+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -56,8 +56,8 @@
     "date": "2025-04-23T03:41:17+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -71,12 +71,12 @@
     "date": "2025-04-23T04:10:54+07:00",
     "source": "Guardian",
     "clubs": [
-      "Crystal Palace FC",
-      "Newcastle United FC",
       "Manchester City FC",
+      "Newcastle United FC",
+      "Nottingham Forest FC",
       "Aston Villa FC",
-      "Chelsea FC",
-      "Nottingham Forest FC"
+      "Crystal Palace FC",
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -90,9 +90,9 @@
     "date": "2025-04-23T04:30:00+07:00",
     "source": "Guardian",
     "clubs": [
-      "Paris Saint-Germain FC",
       "Liverpool FC",
       "Arsenal FC",
+      "Paris Saint-Germain FC",
       "Crystal Palace FC"
     ],
     "leagues": [
@@ -107,8 +107,8 @@
     "date": "2025-04-23T04:30:00+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester City FC",
       "Aston Villa FC",
+      "Manchester City FC",
       "Crystal Palace FC"
     ],
     "leagues": [
@@ -123,8 +123,8 @@
     "date": "2025-04-23T04:57:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Manchester City FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -138,8 +138,8 @@
     "date": "2025-04-23T05:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Manchester City FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -153,16 +153,16 @@
     "date": "2025-04-23T05:04:19+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
       "Paris Saint-Germain FC",
       "FC Barcelona",
+      "Real Madrid CF",
       "RCD Mallorca"
     ],
     "leagues": [
       "French Ligue 1 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "French Ligue 1 2024/25"
   },
   {
     "title": "SCENES! Nunes scores 94th-minute winner for Man City against Villa!",
@@ -171,8 +171,8 @@
     "date": "2025-04-23T05:10:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Manchester City FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -186,8 +186,8 @@
     "date": "2025-04-23T05:15:03+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -201,8 +201,8 @@
     "date": "2025-04-23T05:25:06+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -216,8 +216,8 @@
     "date": "2025-04-23T05:52:52+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester City FC",
       "Aston Villa FC",
+      "Manchester City FC",
       "Chelsea FC"
     ],
     "leagues": [
@@ -232,14 +232,14 @@
     "date": "2025-04-23T06:15:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Everton FC",
-      "Rangers FC"
+      "Rangers FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Scottish Premiership 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Scottish Premiership 2024/25"
   },
   {
     "title": "Passionate Guardiola continues to solve Man City puzzle",
@@ -248,8 +248,8 @@
     "date": "2025-04-23T06:17:30+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -263,8 +263,8 @@
     "date": "2025-04-23T12:25:56+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Internazionale Milano",
-      "FC Barcelona"
+      "FC Barcelona",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -277,8 +277,8 @@
     "date": "2025-04-23T12:26:17+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Internazionale Milano",
-      "FC Barcelona"
+      "FC Barcelona",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -334,9 +334,9 @@
     "date": "2025-04-23T14:00:12+07:00",
     "source": "Guardian",
     "clubs": [
-      "Leeds United FC",
+      "Burnley FC",
       "Arsenal FC",
-      "Burnley FC"
+      "Leeds United FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
@@ -365,8 +365,8 @@
     "date": "2025-04-23T14:23:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Manchester City FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -380,8 +380,8 @@
     "date": "2025-04-23T16:00:10+07:00",
     "source": "BBC",
     "clubs": [
-      "Newcastle United FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Newcastle United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -422,8 +422,8 @@
     "date": "2025-04-23T18:00:11+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester United FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -450,10 +450,10 @@
     "date": "2025-04-23T18:41:22+07:00",
     "source": "Guardian",
     "clubs": [
-      "Southampton FC",
-      "Tottenham Hotspur FC",
       "Ipswich Town FC",
-      "Leicester City FC"
+      "Leicester City FC",
+      "Southampton FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -478,16 +478,16 @@
     "date": "2025-04-23T19:34:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Real Madrid CF",
-      "Manchester City FC",
       "Liverpool FC",
+      "Manchester City FC",
+      "Real Madrid CF",
       "AFC Bournemouth"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Club World Cup to be broadcast live on Channel 5 in UK after Dazn deal",
@@ -505,8 +505,8 @@
     "date": "2025-04-23T20:15:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Manchester United FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -551,8 +551,8 @@
     "date": "2025-04-23T21:03:00+07:00",
     "source": "BBC",
     "clubs": [
-      "Leeds United FC",
-      "Burnley FC"
+      "Burnley FC",
+      "Leeds United FC"
     ],
     "leagues": [
       "English Championship 2024/25"
@@ -566,14 +566,14 @@
     "date": "2025-04-23T21:22:23+07:00",
     "source": "BBC",
     "clubs": [
-      "Everton FC",
-      "Rangers FC"
+      "Rangers FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Scottish Premiership 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Scottish Premiership 2024/25"
   },
   {
     "title": "The unwanted PL records relegated Southampton could still break",
@@ -610,9 +610,9 @@
     "date": "2025-04-23T23:00:40+07:00",
     "source": "Guardian",
     "clubs": [
-      "Newcastle United FC",
-      "Manchester City FC",
       "Aston Villa FC",
+      "Manchester City FC",
+      "Newcastle United FC",
       "Crystal Palace FC"
     ],
     "leagues": [
@@ -627,8 +627,8 @@
     "source": "BBC",
     "clubs": [
       "Liverpool FC",
-      "Arsenal FC",
       "Newcastle United FC",
+      "Arsenal FC",
       "AFC Bournemouth",
       "Chelsea FC"
     ],

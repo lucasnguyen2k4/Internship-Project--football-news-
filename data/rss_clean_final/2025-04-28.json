@@ -45,8 +45,8 @@
     "date": "2025-04-28T00:24:57+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -60,8 +60,8 @@
     "date": "2025-04-28T00:37:08+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -75,8 +75,8 @@
     "date": "2025-04-28T00:37:11+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -90,8 +90,8 @@
     "date": "2025-04-28T00:52:14+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -120,8 +120,8 @@
     "date": "2025-04-28T01:01:08+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -173,8 +173,8 @@
     "date": "2025-04-28T01:14:57+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -187,8 +187,8 @@
     "date": "2025-04-28T01:14:59+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -202,8 +202,8 @@
     "date": "2025-04-28T01:15:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Manchester United FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -304,10 +304,10 @@
     "source": "Guardian",
     "clubs": [
       "Liverpool FC",
-      "Tottenham Hotspur FC",
-      "Crystal Palace FC",
       "Manchester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Tottenham Hotspur FC",
+      "Crystal Palace FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -384,9 +384,9 @@
     "date": "2025-04-28T03:50:06+07:00",
     "source": "Guardian",
     "clubs": [
+      "SSC Napoli",
       "AS Roma",
-      "FC Internazionale Milano",
-      "SSC Napoli"
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "Italian Serie A 2024/25"
@@ -414,8 +414,8 @@
     "date": "2025-04-28T04:15:47+07:00",
     "source": "BBC",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -479,8 +479,8 @@
     "source": "BBC",
     "clubs": [
       "Club Atlético de Madrid",
-      "Manchester City FC",
       "Manchester United FC",
+      "Manchester City FC",
       "Tottenham Hotspur FC"
     ],
     "leagues": [
@@ -545,8 +545,8 @@
     "source": "BBC",
     "clubs": [
       "Aberdeen FC",
-      "Heart of Midlothian",
-      "Brentford FC"
+      "Brentford FC",
+      "Heart of Midlothian"
     ],
     "leagues": [
       "English Premier League 2024/25",
@@ -584,14 +584,14 @@
     "date": "2025-04-28T14:00:54+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester United FC",
       "Liverpool FC",
-      "Tottenham Hotspur FC",
-      "Arsenal FC",
-      "AFC Bournemouth",
       "Manchester City FC",
       "Nottingham Forest FC",
-      "Ipswich Town FC"
+      "Arsenal FC",
+      "Manchester United FC",
+      "Ipswich Town FC",
+      "Tottenham Hotspur FC",
+      "AFC Bournemouth"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -630,8 +630,8 @@
     "date": "2025-04-28T14:24:37+07:00",
     "source": "BBC",
     "clubs": [
-      "Rangers FC",
-      "Celtic FC"
+      "Celtic FC",
+      "Rangers FC"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"
@@ -692,8 +692,8 @@
     "date": "2025-04-28T16:26:30+07:00",
     "source": "Guardian",
     "clubs": [
-      "Bristol City FC",
       "Burnley FC",
+      "Bristol City FC",
       "Leeds United FC"
     ],
     "leagues": [
@@ -765,9 +765,9 @@
     "date": "2025-04-28T18:01:28+07:00",
     "source": "Guardian",
     "clubs": [
+      "SSC Napoli",
       "AS Roma",
-      "FC Internazionale Milano",
-      "SSC Napoli"
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "Italian Serie A 2024/25"
@@ -781,8 +781,8 @@
     "date": "2025-04-28T18:14:44+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Internazionale Milano",
-      "FC Barcelona"
+      "FC Barcelona",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -795,8 +795,8 @@
     "date": "2025-04-28T19:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Paris Saint-Germain FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -809,8 +809,8 @@
     "date": "2025-04-28T19:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Paris Saint-Germain FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -823,16 +823,16 @@
     "date": "2025-04-28T19:00:15+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Bayern München",
       "Liverpool FC",
+      "FC Bayern München",
       "FC Barcelona"
     ],
     "leagues": [
-      "English Premier League 2024/25",
       "Deutsche Bundesliga 2024/25",
+      "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Liverpool Premier League title parade set for 26 May",
@@ -911,8 +911,8 @@
     "date": "2025-04-28T21:00:34+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester City FC",
       "Liverpool FC",
+      "Manchester City FC",
       "Tottenham Hotspur FC",
       "Crystal Palace FC"
     ],
@@ -942,8 +942,8 @@
     "date": "2025-04-28T21:41:43+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester City FC",
-      "Nottingham Forest FC"
+      "Nottingham Forest FC",
+      "Manchester City FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -994,8 +994,8 @@
     "date": "2025-04-28T22:41:55+07:00",
     "source": "Guardian",
     "clubs": [
-      "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Paris Saint-Germain FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -1008,8 +1008,8 @@
     "date": "2025-04-28T23:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Paris Saint-Germain FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -1031,9 +1031,9 @@
     "date": "2025-04-28T23:15:48+07:00",
     "source": "BBC",
     "clubs": [
-      "FC Internazionale Milano",
+      "Arsenal FC",
       "FC Barcelona",
-      "Arsenal FC"
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"

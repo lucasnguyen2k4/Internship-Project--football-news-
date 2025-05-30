@@ -67,21 +67,21 @@
     "date": "2025-05-29T03:59:41+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
-      "RB Leipzig",
-      "Manchester United FC",
       "Liverpool FC",
       "Arsenal FC",
-      "Bayer 04 Leverkusen",
+      "Manchester United FC",
+      "RB Leipzig",
+      "Ipswich Town FC",
       "Chelsea FC",
-      "Ipswich Town FC"
+      "Real Madrid CF",
+      "Bayer 04 Leverkusen"
     ],
     "leagues": [
-      "English Premier League 2024/25",
       "Deutsche Bundesliga 2024/25",
+      "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Fans arrested after clashes before Conference League final",
@@ -90,8 +90,8 @@
     "date": "2025-05-29T04:03:05+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Betis Balompié",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Real Betis Balompié"
     ],
     "leagues": [
       "UEFA Europa Conference League 2024/25"
@@ -117,8 +117,8 @@
     "date": "2025-05-29T05:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Real Betis Balompié",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Real Betis Balompié"
     ],
     "leagues": [
       "UEFA Europa Conference League 2024/25"
@@ -145,8 +145,8 @@
     "date": "2025-05-29T06:04:35+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Betis Balompié",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Real Betis Balompié"
     ],
     "leagues": [
       "UEFA Europa Conference League 2024/25"
@@ -197,8 +197,8 @@
     "date": "2025-05-29T14:23:38+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Betis Balompié",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Real Betis Balompié"
     ],
     "leagues": [
       "UEFA Europa Conference League 2024/25"
@@ -229,9 +229,9 @@
     "date": "2025-05-29T19:22:01+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Betis Balompié",
+      "Chelsea FC",
       "Manchester United FC",
-      "Chelsea FC"
+      "Real Betis Balompié"
     ],
     "leagues": [
       "UEFA Europa Conference League 2024/25"
@@ -276,11 +276,11 @@
     "date": "2025-05-29T22:00:29+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
-      "FC Bayern München",
-      "FC Internazionale Milano",
       "Manchester City FC",
-      "Paris Saint-Germain FC"
+      "FC Internazionale Milano",
+      "Paris Saint-Germain FC",
+      "FC Bayern München",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"

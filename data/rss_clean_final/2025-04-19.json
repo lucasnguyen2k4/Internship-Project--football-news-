@@ -15,11 +15,11 @@
     "date": "2025-04-19T03:53:34+07:00",
     "source": "BBC",
     "clubs": [
+      "Manchester City FC",
+      "Nottingham Forest FC",
       "Southampton FC",
       "Manchester United FC",
-      "AFC Bournemouth",
-      "Manchester City FC",
-      "Nottingham Forest FC"
+      "AFC Bournemouth"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -120,10 +120,10 @@
     "date": "2025-04-19T14:00:34+07:00",
     "source": "Guardian",
     "clubs": [
+      "Ipswich Town FC",
       "West Ham United FC",
-      "Wolverhampton Wanderers FC",
       "Arsenal FC",
-      "Ipswich Town FC"
+      "Wolverhampton Wanderers FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -160,8 +160,8 @@
     "date": "2025-04-19T18:00:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Brentford FC",
-      "Brighton & Hove Albion FC"
+      "Brighton & Hove Albion FC",
+      "Brentford FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -189,8 +189,8 @@
     "date": "2025-04-19T19:03:57+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Olympique Lyonnais"
+      "Olympique Lyonnais",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -228,9 +228,9 @@
     "date": "2025-04-19T19:29:56+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
       "Paris Saint-Germain FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -271,20 +271,20 @@
     "date": "2025-04-19T21:30:01+07:00",
     "source": "Guardian",
     "clubs": [
-      "Southampton FC",
       "FC Barcelona",
-      "RC Celta de Vigo",
       "Manchester City FC",
-      "Brentford FC",
-      "Brighton & Hove Albion FC",
       "Everton FC",
-      "West Ham United FC"
+      "Southampton FC",
+      "West Ham United FC",
+      "RC Celta de Vigo",
+      "Brighton & Hove Albion FC",
+      "Brentford FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Aberdeen score late extra-time winner to beat Hearts",
@@ -336,9 +336,9 @@
     "date": "2025-04-19T23:13:55+07:00",
     "source": "Guardian",
     "clubs": [
-      "Everton FC",
+      "Aston Villa FC",
       "Manchester City FC",
-      "Aston Villa FC"
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -352,9 +352,9 @@
     "date": "2025-04-19T23:27:24+07:00",
     "source": "Guardian",
     "clubs": [
+      "Chelsea FC",
       "Southampton FC",
-      "West Ham United FC",
-      "Chelsea FC"
+      "West Ham United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -368,8 +368,8 @@
     "date": "2025-04-19T23:30:39+07:00",
     "source": "BBC",
     "clubs": [
-      "Everton FC",
-      "Manchester City FC"
+      "Manchester City FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

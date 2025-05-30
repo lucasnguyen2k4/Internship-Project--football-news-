@@ -110,8 +110,8 @@
     "date": "2025-05-24T02:30:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Everton FC",
-      "Newcastle United FC"
+      "Newcastle United FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -125,8 +125,8 @@
     "date": "2025-05-24T02:45:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Manchester United FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -154,8 +154,8 @@
     "source": "Guardian",
     "clubs": [
       "Nottingham Forest FC",
-      "Manchester United FC",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -230,14 +230,14 @@
     "date": "2025-05-24T05:06:42+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "SSC Napoli"
+      "SSC Napoli",
+      "Manchester United FC"
     ],
     "leagues": [
       "Italian Serie A 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Italian Serie A 2024/25"
   },
   {
     "title": "Napoli secure Serie A title after Scott McTominay’s stunner sees off Cagliari",
@@ -246,15 +246,15 @@
     "date": "2025-05-24T05:13:20+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester United FC",
+      "SSC Napoli",
       "FC Internazionale Milano",
-      "SSC Napoli"
+      "Manchester United FC"
     ],
     "leagues": [
       "Italian Serie A 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Italian Serie A 2024/25"
   },
   {
     "title": "Al Hilal set to make £100m Fernandes bid - Saturday's gossip",
@@ -263,15 +263,15 @@
     "date": "2025-05-24T05:22:19+07:00",
     "source": "BBC",
     "clubs": [
+      "Liverpool FC",
       "FC Bayern München",
-      "Manchester United FC",
-      "Liverpool FC"
+      "Manchester United FC"
     ],
     "leagues": [
       "Deutsche Bundesliga 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Deutsche Bundesliga 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Rangers 'should have been awarded goal against Hibs'",
@@ -390,17 +390,17 @@
     "date": "2025-05-24T14:00:54+07:00",
     "source": "Guardian",
     "clubs": [
+      "Bayer 04 Leverkusen",
       "Paris Saint-Germain FC",
-      "Bologna FC 1909",
       "Olympique Lyonnais",
-      "Bayer 04 Leverkusen"
+      "Bologna FC 1909"
     ],
     "leagues": [
+      "Deutsche Bundesliga 2024/25",
       "French Ligue 1 2024/25",
-      "Italian Serie A 2024/25",
-      "Deutsche Bundesliga 2024/25"
+      "Italian Serie A 2024/25"
     ],
-    "main_league": "French Ligue 1 2024/25"
+    "main_league": "Deutsche Bundesliga 2024/25"
   },
   {
     "title": "'Great coach' Rodgers' treble chance 'no surprise' - Schmeichel",
@@ -452,8 +452,8 @@
     "date": "2025-05-24T14:52:54+07:00",
     "source": "BBC",
     "clubs": [
-      "Rangers FC",
-      "Celtic FC"
+      "Celtic FC",
+      "Rangers FC"
     ],
     "leagues": [
       "Scottish Premiership 2024/25"
@@ -492,8 +492,8 @@
     "date": "2025-05-24T17:18:52+07:00",
     "source": "Guardian",
     "clubs": [
-      "FC Internazionale Milano",
-      "SSC Napoli"
+      "SSC Napoli",
+      "FC Internazionale Milano"
     ],
     "leagues": [
       "Italian Serie A 2024/25"

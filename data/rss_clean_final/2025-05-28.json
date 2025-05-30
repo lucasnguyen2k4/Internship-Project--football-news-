@@ -113,14 +113,14 @@
     "date": "2025-05-28T14:45:13+07:00",
     "source": "BBC",
     "clubs": [
-      "Rangers FC",
-      "Liverpool FC"
+      "Liverpool FC",
+      "Rangers FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Scottish Premiership 2024/25"
     ],
-    "main_league": "Scottish Premiership 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Earps 'elevated levels of goalkeeping' - Brown-Finnis",
@@ -184,8 +184,8 @@
     "date": "2025-05-28T18:24:46+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Betis Balompié",
-      "Chelsea FC"
+      "Chelsea FC",
+      "Real Betis Balompié"
     ],
     "leagues": [
       "UEFA Europa Conference League 2024/25"
@@ -198,14 +198,14 @@
     "date": "2025-05-28T18:31:32+07:00",
     "source": "BBC",
     "clubs": [
-      "Arsenal FC",
-      "Real Sociedad de Fútbol"
+      "Real Sociedad de Fútbol",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Teenager Kpakio in Wales squad for qualifiers",
@@ -228,14 +228,14 @@
     "date": "2025-05-28T19:30:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Arsenal FC",
-      "Real Sociedad de Fútbol"
+      "Real Sociedad de Fútbol",
+      "Arsenal FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "English Premier League 2024/25"
+    "main_league": "Spain Primera División 2024/25"
   },
   {
     "title": "Hearts face Dunfermline in League Cup - full draw",
@@ -283,10 +283,10 @@
     "date": "2025-05-28T19:44:07+07:00",
     "source": "Guardian",
     "clubs": [
-      "Leeds United FC",
       "Liverpool FC",
+      "Burnley FC",
       "Tottenham Hotspur FC",
-      "Burnley FC"
+      "Leeds United FC"
     ],
     "leagues": [
       "UEFA Europa League 2024/25"
@@ -299,16 +299,16 @@
     "date": "2025-05-28T19:58:11+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
       "Liverpool FC",
+      "Real Sociedad de Fútbol",
       "Arsenal FC",
-      "Real Sociedad de Fútbol"
+      "Real Madrid CF"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Lego and tattoos - Wales' role model goalkeeper",
@@ -331,14 +331,14 @@
     "date": "2025-05-28T20:57:28+07:00",
     "source": "BBC",
     "clubs": [
-      "AS Roma",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "AS Roma"
     ],
     "leagues": [
       "Italian Serie A 2024/25",
       "English Premier League 2024/25"
     ],
-    "main_league": "Italian Serie A 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Lamine Yamal insists on grandmother being present for Barcelona signing photos",
@@ -426,9 +426,9 @@
     "date": "2025-05-28T22:58:20+07:00",
     "source": "Guardian",
     "clubs": [
-      "Manchester United FC",
       "Aston Villa FC",
-      "Arsenal FC"
+      "Arsenal FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -484,19 +484,19 @@
     "date": "2025-05-28T23:41:29+07:00",
     "source": "Guardian",
     "clubs": [
-      "Valencia CF",
-      "Leeds United FC",
       "Liverpool FC",
+      "Everton FC",
+      "West Ham United FC",
       "Brentford FC",
       "Chelsea FC",
-      "Everton FC",
-      "West Ham United FC"
+      "Valencia CF",
+      "Leeds United FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25",
       "English Championship 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   }
 ]

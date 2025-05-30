@@ -52,10 +52,10 @@
     "date": "2025-05-20T04:15:16+07:00",
     "source": "Guardian",
     "clubs": [
-      "Tottenham Hotspur FC",
-      "Brentford FC",
       "Liverpool FC",
-      "Brighton & Hove Albion FC"
+      "Brentford FC",
+      "Brighton & Hove Albion FC",
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -171,8 +171,8 @@
     "date": "2025-05-20T05:24:49+07:00",
     "source": "BBC",
     "clubs": [
-      "Manchester United FC",
-      "Aston Villa FC"
+      "Aston Villa FC",
+      "Manchester United FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -195,18 +195,18 @@
     "date": "2025-05-20T05:32:16+07:00",
     "source": "BBC",
     "clubs": [
+      "Nottingham Forest FC",
       "Real Betis Balompié",
+      "Brighton & Hove Albion FC",
       "AFC Bournemouth",
       "Brentford FC",
-      "Brighton & Hove Albion FC",
-      "Chelsea FC",
-      "Nottingham Forest FC"
+      "Chelsea FC"
     ],
     "leagues": [
       "English Premier League 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Wait goes on as Salah bids to break Premier League records",
@@ -559,14 +559,14 @@
     "date": "2025-05-20T19:33:45+07:00",
     "source": "BBC",
     "clubs": [
-      "Burnley FC",
-      "Celtic FC"
+      "Celtic FC",
+      "Burnley FC"
     ],
     "leagues": [
-      "English Championship 2024/25",
-      "Scottish Premiership 2024/25"
+      "Scottish Premiership 2024/25",
+      "English Championship 2024/25"
     ],
-    "main_league": "English Championship 2024/25"
+    "main_league": "Scottish Premiership 2024/25"
   },
   {
     "title": "'It would mean everything' - Shinnie aims to lead Aberdeen to Scottish Cup glory",
@@ -672,9 +672,9 @@
     "date": "2025-05-20T23:07:11+07:00",
     "source": "Guardian",
     "clubs": [
+      "Chelsea FC",
       "Manchester United FC",
-      "Tottenham Hotspur FC",
-      "Chelsea FC"
+      "Tottenham Hotspur FC"
     ],
     "leagues": [
       "English Premier League 2024/25"

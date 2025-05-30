@@ -35,8 +35,8 @@
     "source": "Guardian",
     "clubs": [
       "Coventry City FC",
-      "Bristol City FC",
       "Sunderland AFC",
+      "Bristol City FC",
       "Chelsea FC"
     ],
     "leagues": [
@@ -74,17 +74,17 @@
     "date": "2025-05-10T04:30:36+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
-      "Paris Saint-Germain FC",
       "Liverpool FC",
-      "Arsenal FC"
+      "Paris Saint-Germain FC",
+      "Arsenal FC",
+      "Real Madrid CF"
     ],
     "leagues": [
-      "French Ligue 1 2024/25",
       "English Premier League 2024/25",
+      "French Ligue 1 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Isidor's superb finish stuns Coventry!",
@@ -108,18 +108,18 @@
     "date": "2025-05-10T04:39:37+07:00",
     "source": "BBC",
     "clubs": [
-      "Real Madrid CF",
-      "Borussia Dortmund",
+      "Chelsea FC",
       "AC Milan",
-      "Chelsea FC"
+      "Real Madrid CF",
+      "Borussia Dortmund"
     ],
     "leagues": [
-      "Italian Serie A 2024/25",
-      "English Premier League 2024/25",
       "Deutsche Bundesliga 2024/25",
+      "English Premier League 2024/25",
+      "Italian Serie A 2024/25",
       "Spain Primera División 2024/25"
     ],
-    "main_league": "Spain Primera División 2024/25"
+    "main_league": "English Premier League 2024/25"
   },
   {
     "title": "Disaster! Mayenda pounces on huge Coventry mistake late on!",
@@ -196,9 +196,9 @@
     "date": "2025-05-10T14:00:49+07:00",
     "source": "Guardian",
     "clubs": [
-      "Real Madrid CF",
+      "FC Internazionale Milano",
       "FC Barcelona",
-      "FC Internazionale Milano"
+      "Real Madrid CF"
     ],
     "leagues": [
       "UEFA Champions League 2024/25"
@@ -263,8 +263,8 @@
     "date": "2025-05-10T20:30:00+07:00",
     "source": "SkySports",
     "clubs": [
-      "Everton FC",
-      "Fulham FC"
+      "Fulham FC",
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
@@ -287,10 +287,10 @@
     "date": "2025-05-10T21:51:44+07:00",
     "source": "Guardian",
     "clubs": [
-      "Everton FC",
       "Fulham FC",
+      "Southampton FC",
       "Manchester City FC",
-      "Southampton FC"
+      "Everton FC"
     ],
     "leagues": [
       "English Premier League 2024/25"
